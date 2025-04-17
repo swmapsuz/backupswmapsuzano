@@ -23,7 +23,7 @@ def log_message(message):
 def ensure_git_config():
     """Garante que o diretório é seguro e o repositório está configurado."""
     run_command("git config --global --add safe.directory /", "Falha ao configurar diretório seguro")
-    run_command("git remote set-url origin https://github.com/pedr-moura/backup-swdev.git", 
+    run_command("git remote set-url origin https://github.com/swmapsuz/backupswmapsuzano.git", 
                 "Falha ao configurar repositório remoto")
 
 def create_gitignore():
