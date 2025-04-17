@@ -2416,3 +2416,4 @@
 2025-04-17 14:20:38,211 - ERROR - Erro ao carregar dados.json após mudança
 2025-04-17 14:20:43,215 - INFO - Detectada mudança externa em dados.json
 2025-04-17 14:21:07,162 - INFO - Iniciando servidor de aprovações na porta 5002...
+2025-04-17 14:22:12,306 - INFO - Detectada mudança externa em dados.json
