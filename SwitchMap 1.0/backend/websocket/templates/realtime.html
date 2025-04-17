@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monitoramento em Tempo Real</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .panel {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            padding: 20px;
+        }
+        .status-bar {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #eee;
+        }
+        .connection-status {
+            padding: 8px 12px;
+            border-radius: 20px;
+            font-weight: bold;
+        }
+        .connected {
+            background-color: #d4edda;
+            color: #155724;
+        }
+        .disconnected {
+            background-color: #f8d7da;
+            color: #721c24;
+        }
+        .log-container {
+            height: 300px;
+            overflow-y: auto;
+            background-color: #1e1e1e;
+            color: #e0e0e0;
+            padding: 10px;
+            border-radius: 4px;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 14px;
+        }
+        .log-entry {
+            margin-bottom: 5px;
+            line-height: 1.4;
+        }
+        .log-timestamp {
+            color: #569cd6;
+        }
+        .log-info {
+            color: #4ec9b0;
+        }
+        .log-warning {
+            color: #d7ba7d;
+        }
+        .log-error {
+            color: #f48771;
+        }
+        .log-data {
+            color: #9cdcfe;
+        }
+        .ping-progress {
+            margin-top: 15px;
+        }
+        .progress-bar {
+            height: 20px;
+            background-color: #e9ecef;
+            border-radius: 4px;
+            overflow: hidden;
+            margin-bottom: 5px;
+        }
+        .progress-fill {
+            height: 100%;
+            background-color: #28a745;
+            transition: width 0.3s ease;
+        }
+        .stats {
+            display: flex;
+            gap: 15px;
+            font-size: 14px;
+        }
+        .stat-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        .stat-value {
+            font-weight: bold;
+        }
+        button {
+            padding: 8px 16px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+        button:hover {
+            background-color: #0069d9;
+        }
+        button:disabled {
+            background-color: #6c757d;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="panel">
+            <h1>Monitoramento em Tempo Real</h1>
+            <div class="status-bar">
+                <div>
+                    <span>Status do WebSocket: </span>
+                    <span id="wsStatus" class="connection-status disconnected">Desconectado</span>
+                </div>
+                <div class="stats">
+                    <div class="stat-item">
+                        <span>Última atualização:</span>
+                        <span id="lastUpdate" class="stat-value">Nunca</span>
+                    </div>
+                    <div class="stat-item">
+                        <span>Latência:</span>
+                        <span id="latency" class="stat-value">-</span>
+                    </div>
+                    <button id="connectBtn">Conectar</button>
+                    <button id="disconnectBtn" disabled>Desconectar</button>
+                </div>
+            </div>
+            
+            <div class="ping-progress">
+                <h3>Progresso do Ping</h3>
+                <div class="progress-bar">
+                    <div id="progressFill" class="progress-fill" style="width: 0%"></div>
+                </div>
+                <div class="stats">
+                    <div class="stat-item">
+                        <span>Processados:</span>
+                        <span id="processedCount" class="stat-value">0</span>
+                        <span>/</span>
+                        <span id="totalCount" class="stat-value">0</span>
+                    </div>
+                    <div class="stat-item">
+                        <span>Online:</span>
+                        <span id="onlineCount" class="stat-value">0</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="panel">
+            <h2>Logs do WebSocket</h2>
+            <div class="log-container" id="wsLogs"></div>
+        </div>
+        
+        <div class="panel">
+            <h2>Dados Recebidos</h2>
+            <div class="log-container" id="dataLogs"></div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.7.2/socket.io.min.js"></script>
+    <script>
+        // Configurações
+        const config = {
+            socketUrl: window.location.origin,
+            reconnectInterval: 5000,
+            maxLogEntries: 200,
+            pingInterval: 30000
+        };
+        
+        // Variáveis de estado
+        let socket = null;
+        let lastPingTime = 0;
+        let reconnectAttempts = 0;
+        let pingIntervalId = null;
+        
+        // Elementos da UI
+        const wsStatusEl = document.getElementById('wsStatus');
+        const connectBtn = document.getElementById('connectBtn');
+        const disconnectBtn = document.getElementById('disconnectBtn');
+        const wsLogsEl = document.getElementById('wsLogs');
+        const dataLogsEl = document.getElementById('dataLogs');
+        const lastUpdateEl = document.getElementById('lastUpdate');
+        const latencyEl = document.getElementById('latency');
+        const progressFillEl = document.getElementById('progressFill');
+        const processedCountEl = document.getElementById('processedCount');
+        const totalCountEl = document.getElementById('totalCount');
+        const onlineCountEl = document.getElementById('onlineCount');
+        
+        // Funções de log
+        function logToPanel(panel, message, type = 'info') {
+            const timestamp = new Date().toISOString().substring(11, 23);
+            const logEntry = document.createElement('div');
+            logEntry.className = 'log-entry';
+            
+            logEntry.innerHTML = `
+                <span class="log-timestamp">[${timestamp}]</span>
+                <span class="log-${type}">${message}</span>
+            `;
+            
+            panel.prepend(logEntry);
+            
+            // Limitar número de entradas
+            if (panel.children.length > config.maxLogEntries) {
+                panel.removeChild(panel.lastChild);
+            }
+        }
+        
+        function logWs(message, type = 'info') {
+            logToPanel(wsLogsEl, message, type);
+            console.log(`[WS] ${message}`);
+        }
+        
+        function logData(message, data = null) {
+            logToPanel(dataLogsEl, message, 'data');
+            if (data) {
+                const dataEntry = document.createElement('div');
+                dataEntry.className = 'log-entry';
+                dataEntry.textContent = JSON.stringify(data, null, 2);
+                dataLogsEl.prepend(dataEntry);
+            }
+        }
+        
+        // Funções de conexão
+        function connectWebSocket() {
+            if (socket) return;
+            
+            logWs(`Conectando ao WebSocket em ${config.socketUrl}...`);
+            
+            socket = io(config.socketUrl, {
+                reconnectionAttempts: 5,
+                reconnectionDelay: config.reconnectInterval,
+                transports: ['websocket']
+            });
+            
+            // Eventos do Socket.IO
+            socket.on('connect', () => {
+                updateConnectionStatus(true);
+                logWs('Conectado ao servidor WebSocket', 'info');
+                reconnectAttempts = 0;
+                
+                // Iniciar monitoramento de latência
+                startPingMonitor();
+                
+                // Solicitar dados iniciais
+                socket.emit('subscribe_to_updates');
+            });
+            
+            socket.on('disconnect', (reason) => {
+                updateConnectionStatus(false);
+                logWs(`Desconectado: ${reason}`, 'warning');
+                stopPingMonitor();
+                
+                if (reason === 'io server disconnect') {
+                    // Reconexão forçada se o servidor nos desconectar
+                    setTimeout(connectWebSocket, 1000);
+                }
+            });
+            
+            socket.on('connect_error', (error) => {
+                logWs(`Erro de conexão: ${error.message}`, 'error');
+                reconnectAttempts++;
+            });
+            
+            socket.on('reconnect_failed', () => {
+                logWs('Falha na reconexão após várias tentativas', 'error');
+            });
+            
+            // Eventos de aplicação
+            socket.on('data_updated', (data) => {
+                lastUpdateEl.textContent = new Date().toLocaleTimeString();
+                logData('Dados atualizados recebidos', data);
+                
+                // Atualizar estatísticas
+                updateStats(data);
+            });
+            
+            socket.on('ping_progress', (progress) => {
+                const percent = Math.round((progress.processed / progress.total) * 100);
+                progressFillEl.style.width = `${percent}%`;
+                processedCountEl.textContent = progress.processed;
+                totalCountEl.textContent = progress.total;
+                onlineCountEl.textContent = progress.validated;
+                
+                logWs(`Progresso do ping: ${progress.processed}/${progress.total} (${percent}%) - ${progress.validated} online`);
+            });
+        }
+        
+        function disconnectWebSocket() {
+            if (!socket) return;
+            
+            logWs('Desconectando do WebSocket...');
+            socket.disconnect();
+            socket = null;
+            stopPingMonitor();
+            updateConnectionStatus(false);
+        }
+        
+        function updateConnectionStatus(connected) {
+            wsStatusEl.textContent = connected ? 'Conectado' : 'Desconectado';
+            wsStatusEl.className = `connection-status ${connected ? 'connected' : 'disconnected'}`;
+            connectBtn.disabled = connected;
+            disconnectBtn.disabled = !connected;
+        }
+        
+        // Monitoramento de latência
+        function startPingMonitor() {
+            lastPingTime = Date.now();
+            
+            pingIntervalId = setInterval(() => {
+                if (socket && socket.connected) {
+                    lastPingTime = Date.now();
+                    socket.emit('ping');
+                }
+            }, config.pingInterval);
+            
+            socket.on('pong', () => {
+                const latency = Date.now() - lastPingTime;
+                latencyEl.textContent = `${latency}ms`;
+            });
+        }
+        
+        function stopPingMonitor() {
+            if (pingIntervalId) {
+                clearInterval(pingIntervalId);
+                pingIntervalId = null;
+            }
+            latencyEl.textContent = '-';
+        }
+        
+        // Atualizar estatísticas
+        function updateStats(data) {
+            if (!data || !data.hosts) return;
+            
+            const totalHosts = data.hosts.length;
+            let onlineHosts = 0;
+            
+            data.hosts.forEach(host => {
+                if (host.ativo === '#00d700') onlineHosts++;
+            });
+            
+            totalCountEl.textContent = totalHosts;
+            onlineCountEl.textContent = onlineHosts;
+        }
+        
+        // Event listeners
+        connectBtn.addEventListener('click', connectWebSocket);
+        disconnectBtn.addEventListener('click', disconnectWebSocket);
+        
+        // Iniciar conexão automaticamente
+        connectWebSocket();
+    </script>
+</body>
+</html>

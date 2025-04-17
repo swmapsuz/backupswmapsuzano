@@ -1,0 +1,92 @@
+[
+    {
+        "id": "edit_20250416132240",
+        "timestamp": "2025-04-16T13:22:40.001919",
+        "changes": {
+            "ip": "172.16.124.17",
+            "nome": "BR-MA-FAB-IMP-SWA_CAPT_EMISSAO_R1.124.17",
+            "local": "-5.456919, -47.609307",
+            "observacao": "Unid captação de àgua",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "pending",
+        "submitted_by": "anonymous"
+    },
+    {
+        "id": "edit_20250416132240",
+        "timestamp": "2025-04-16T13:22:40.001919",
+        "changes": {
+            "ip": "172.16.124.17",
+            "nome": "BR-MA-FAB-IMP-SWA_CAPT_EMISSAO_R1.124.17",
+            "local": "-5.456919, -47.609307",
+            "observacao": "Unid captação de àgua",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-16T13:22:45.695418",
+        "processed_by": "anonymous"
+    },
+    {
+        "id": "edit_20250416132346",
+        "timestamp": "2025-04-16T13:23:46.712030",
+        "changes": {
+            "ip": "172.16.124.17",
+            "nome": "BR-MA-FAB-IMP-SWA_CAPT_EMISSAO_R1.124.17",
+            "local": "-5.456919, -47.609307",
+            "observacao": "Captação de àgua",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "pending",
+        "submitted_by": "anonymous"
+    },
+    {
+        "id": "edit_20250416132346",
+        "timestamp": "2025-04-16T13:23:46.712030",
+        "changes": {
+            "ip": "172.16.124.17",
+            "nome": "BR-MA-FAB-IMP-SWA_CAPT_EMISSAO_R1.124.17",
+            "local": "-5.456919, -47.609307",
+            "observacao": "Captação de àgua",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-16T13:23:52.156583",
+        "processed_by": "anonymous"
+    },
+    {
+        "id": "edit_20250416134312",
+        "timestamp": "2025-04-16T13:43:12.542432",
+        "changes": {
+            "ip": "172.16.124.17",
+            "nome": "BR-MA-FAB-IMP-SWA_CAPT_EMISSAO_R1.124.17",
+            "local": "-5.456919, -47.609307",
+            "observacao": "Unidade de Captação de Agua",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "pending",
+        "submitted_by": "anonymous"
+    },
+    {
+        "id": "edit_20250416134312",
+        "timestamp": "2025-04-16T13:43:12.542432",
+        "changes": {
+            "ip": "172.16.124.17",
+            "nome": "BR-MA-FAB-IMP-SWA_CAPT_EMISSAO_R1.124.17",
+            "local": "-5.456919, -47.609307",
+            "observacao": "Unidade de Captação de Agua",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "reject",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-16T13:53:25.704293",
+        "processed_by": "anonymous"
+    }
+]

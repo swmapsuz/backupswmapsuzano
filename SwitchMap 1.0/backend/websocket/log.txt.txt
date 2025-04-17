@@ -1,0 +1,70 @@
+PS A:\SwitchMap 1.0\backend\websocket> py websc.py
+Traceback (most recent call last):
+  File "A:\SwitchMap 1.0\backend\websocket\websc.py", line 20, in <module>
+    socketio = SocketIO(app,
+               ^^^^^^^^^^^^^
+  File "C:\Users\pedromoura.idr\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask_socketio\__init__.py", line 186, in __init__
+    self.init_app(app, **kwargs)
+  File "C:\Users\pedromoura.idr\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask_socketio\__init__.py", line 242, in init_app
+    self.server = socketio.Server(**self.server_options)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pedromoura.idr\AppData\Local\Programs\Python\Python311\Lib\site-packages\socketio\base_server.py", line 34, in __init__
+    self.eio = self._engineio_server_class()(**engineio_options)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pedromoura.idr\AppData\Local\Programs\Python\Python311\Lib\site-packages\engineio\base_server.py", line 94, in __init__
+    raise ValueError('Invalid async_mode specified')
+ValueError: Invalid async_mode specified
+PS A:\SwitchMap 1.0\backend\websocket> py websc.py
+C:\Users\pedromoura.idr\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask_limiter\extension.py:324: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+ ____          _ _       _     __  __
+/ ___|_      _(_) |_ ___| |__ |  \/  | __ _ _ __
+\___ \ \ /\ / / | __/ __| '_ \| |\/| |/ _` | '_ \
+ ___) \ V  V /| | || (__| | | | |  | | (_| | |_) |
+|____/ \_/\_/ |_|\__\___|_| |_|_|  |_|\__,_| .__/
+                                           |_|
+Desenvolvido por Pedro Lucas Sousa Moura
+
+Iniciando thread de atualização de pings...
+Iniciando servidor Flask na porta 5000...
+ * Serving Flask app 'websc'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.196.36:5000
+Press CTRL+C to quit
+172.16.197.106 - - [04/Apr/2025 13:03:29] "GET /socket.io/?EIO=4&transport=polling&t=PO1Ym5g HTTP/1.1" 200 -
+172.16.197.106 - - [04/Apr/2025 13:03:29] "POST /socket.io/?EIO=4&transport=polling&t=PO1Ym6R&sid=M2DSBL4oEhWqzEXqAAAE HTTP/1.1" 200 -
+172.16.197.106 - - [04/Apr/2025 13:03:29] "GET /socket.io/?EIO=4&transport=polling&t=PO1Ym6Y&sid=M2DSBL4oEhWqzEXqAAAE HTTP/1.1" 200 -
+172.16.197.106 - - [04/Apr/2025 13:03:29] "GET /socket.io/?EIO=4&transport=polling&t=PO1Ym7N&sid=M2DSBL4oEhWqzEXqAAAE HTTP/1.1" 200 -
+172.16.197.106 - - [04/Apr/2025 13:03:37] "OPTIONS /status HTTP/1.1" 200 -
+2025-04-04 13:03:38 - ✅ API consultada por NLENPE09TLLH.suzano.com.br (172.16.197.106)
+172.16.197.106 - - [04/Apr/2025 13:03:38] "GET /status HTTP/1.1" 200 -
+172.16.197.106 - - [04/Apr/2025 13:03:48] "GET /socket.io/?EIO=4&transport=websocket&sid=M2DSBL4oEhWqzEXqAAAE HTTP/1.1" 200 -
+172.16.197.106 - - [04/Apr/2025 13:03:48] "GET /socket.io/?EIO=4&transport=websocket HTTP/1.1" 500 -
+Error on request:
+Traceback (most recent call last):
+  File "C:\Users\pedromoura.idr\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\serving.py", line 370, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\pedromoura.idr\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\serving.py", line 336, in execute
+    write(b"")
+  File "C:\Users\pedromoura.idr\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\serving.py", line 261, in write
+    assert status_set is not None, "write() before start_response"
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: write() before start_response
+172.16.197.106 - - [04/Apr/2025 13:03:48] "GET /socket.io/?EIO=4&transport=websocket HTTP/1.1" 500 -
+Error on request:
+Traceback (most recent call last):
+  File "C:\Users\pedromoura.idr\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\serving.py", line 370, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\pedromoura.idr\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\serving.py", line 336, in execute
+    write(b"")
+  File "C:\Users\pedromoura.idr\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\serving.py", line 261, in write
+    assert status_set is not None, "write() before start_response"
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: write() before start_response
+172.16.197.106 - - [04/Apr/2025 13:03:51] "GET /socket.io/?EIO=4&transport=polling&t=PO1YrTN HTTP/1.1" 200 -
+172.16.197.106 - - [04/Apr/2025 13:03:51] "POST /socket.io/?EIO=4&transport=polling&t=PO1YrTk&sid=FBPZEPnCc6AIDkVBAAAK HTTP/1.1" 200 -
+172.16.197.106 - - [04/Apr/2025 13:03:51] "GET /socket.io/?EIO=4&transport=polling&t=PO1YrTq&sid=FBPZEPnCc6AIDkVBAAAK HTTP/1.1" 200 -

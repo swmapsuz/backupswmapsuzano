@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monitor SwitchMap</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.5.4/socket.io.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background: linear-gradient(135deg, #1e3c72, #16191E);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 2rem;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            width: 100%;
+            max-width: 1000px;
+        }
+
+        h1, h2 {
+            color: #16191E;
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        h2 {
+            font-size: 1.8em;
+            margin-top: 2rem;
+        }
+
+        .stats-grid, .ports-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .stat-card, .port-card {
+            background: #f0f4f8;
+            padding: 1.5rem;
+            border-radius: 10px;
+            transition: all 0.3s ease;
+        }
+
+        .stat-card:hover, .port-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .stat-title, .port-title {
+            color: #666;
+            font-size: 1.1em;
+            margin-bottom: 0.5rem;
+        }
+
+        .stat-value, .port-status {
+            font-size: 2em;
+            font-weight: bold;
+            color: #1e3c72;
+        }
+
+        .unit {
+            font-size: 1em;
+            color: #666;
+        }
+
+        .chart-container {
+            margin-top: 1rem;
+            height: 100px;
+            position: relative;
+        }
+
+        .port-details {
+            font-size: 0.9em;
+            color: #444;
+            margin-top: 0.5rem;
+        }
+
+        .status {
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-size: 0.9em;
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+
+        .connected {
+            background: #d4edda;
+            color: #155724;
+        }
+
+        .disconnected {
+            background: #f8d7da;
+            color: #721c24;
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 1.5rem;
+            }
+            h1 {
+                font-size: 2em;
+            }
+            .stat-value, .port-status {
+                font-size: 1.5em;
+            }
+            .chart-container {
+                height: 80px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Monitor SwitchMap</h1>
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-title">Uso da CPU</div>
+                <span class="stat-value" id="cpu_usage">0</span>
+                <span class="unit">%</span>
+                <div class="chart-container">
+                    <canvas id="cpuChart"></canvas>
+                </div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-title">Uso da Memória</div>
+                <span class="stat-value" id="memory_usage">0</span>
+                <span class="unit">%</span>
+                <div class="chart-container">
+                    <canvas id="memoryChart"></canvas>
+                </div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-title">Uso do Disco</div>
+                <span class="stat-value" id="disk_usage">0</span>
+                <span class="unit">%</span>
+                <div class="chart-container">
+                    <canvas id="diskChart"></canvas>
+                </div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-title">Tráfego de Rede</div>
+                <span class="stat-value" id="network_usage">0</span>
+                <span class="unit">KB/s</span>
+                <div class="chart-container">
+                    <canvas id="networkChart"></canvas>
+                </div>
+            </div>
+        </div>
+        <h2>Serviços Monitorados</h2>
+        <div class="ports-grid">
+            <div class="port-card">
+                <div class="port-title">Atualizar Dados</div>
+                <div class="port-status" id="port_5000_status">Livre</div>
+                <div class="port-details" id="port_5000_details"></div>
+            </div>
+            <div class="port-card">
+                <div class="port-title">Cache do Mapa</div>
+                <div class="port-status" id="port_3000_status">Livre</div>
+                <div class="port-details" id="port_3000_details"></div>
+            </div>
+            <div class="port-card">
+                <div class="port-title">WS Entuity</div>
+                <div class="port-status" id="port_8080_status">Livre</div>
+                <div class="port-details" id="port_8080_details"></div>
+            </div>
+        </div>
+        <div id="status" class="status disconnected">Desconectado</div>
+    </div>
+
+    <script>
+        const socket = io("http://172.16.196.36:8050");
+        const cpuSpan = document.getElementById("cpu_usage");
+        const memorySpan = document.getElementById("memory_usage");
+        const diskSpan = document.getElementById("disk_usage");
+        const networkSpan = document.getElementById("network_usage");
+        const statusDiv = document.getElementById("status");
+
+        const portStatus = {
+            5000: document.getElementById("port_5000_status"),
+            3000: document.getElementById("port_3000_status"),
+            8080: document.getElementById("port_8080_status")
+        };
+        const portDetails = {
+            5000: document.getElementById("port_5000_details"),
+            3000: document.getElementById("port_3000_details"),
+            8080: document.getElementById("port_8080_details")
+        };
+
+        // Configuração dos gráficos
+        const chartConfig = (label, max) => ({
+            type: 'line',
+            data: {
+                labels: [],
+                datasets: [{
+                    label: label,
+                    data: [],
+                    borderColor: '#16191E',
+                    backgroundColor: 'rgba(42, 82, 152, 0.1)',
+                    fill: true,
+                    tension: 0.4,
+                    pointRadius: 0
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    y: { beginAtZero: true, max: max, display: false },
+                    x: { display: false }
+                },
+                plugins: {
+                    legend: { display: false }
+                },
+                animation: {
+                    duration: 700
+                }
+            }
+        });
+
+        const cpuChart = new Chart(document.getElementById("cpuChart"), chartConfig("CPU (%)", 100));
+        const memoryChart = new Chart(document.getElementById("memoryChart"), chartConfig("Memória (%)", 100));
+        const diskChart = new Chart(document.getElementById("diskChart"), chartConfig("Disco (%)", 100));
+        const networkChart = new Chart(document.getElementById("networkChart"), chartConfig("Rede (KB/s)", 5000)); // Ajuste o max conforme necessário
+
+        // Função para atualizar gráficos
+        function updateChart(chart, value) {
+            if (chart.data.labels.length >= 10) {
+                chart.data.labels.shift();
+                chart.data.datasets[0].data.shift();
+            }
+            chart.data.labels.push(new Date().toLocaleTimeString());
+            chart.data.datasets[0].data.push(value);
+            chart.update();
+        }
+
+        socket.on("system_stats", (data) => {
+            // Atualiza números e gráficos
+            cpuSpan.innerText = data.cpu.toFixed(1);
+            cpuSpan.style.color = data.cpu > 80 ? "#dc3545" : data.cpu > 50 ? "#ffc107" : "#1e3c72";
+            updateChart(cpuChart, data.cpu);
+
+            memorySpan.innerText = data.memory.toFixed(1);
+            memorySpan.style.color = data.memory > 80 ? "#dc3545" : data.memory > 50 ? "#ffc107" : "#1e3c72";
+            updateChart(memoryChart, data.memory);
+
+            diskSpan.innerText = data.disk.toFixed(1);
+            diskSpan.style.color = data.disk > 80 ? "#dc3545" : data.disk > 50 ? "#ffc107" : "#1e3c72";
+            updateChart(diskChart, data.disk);
+
+            networkSpan.innerText = data.network.toFixed(1);
+            networkSpan.style.color = data.network > 800 ? "#dc3545" : data.network > 400 ? "#ffc107" : "#1e3c72";
+            updateChart(networkChart, data.network);
+
+            // Atualiza informações das portas
+            for (const port in data.ports) {
+                const info = data.ports[port];
+                portStatus[port].innerText = info.status;
+                portStatus[port].style.color = info.status === "Em uso" ? "#28a745" : "#666";
+                portDetails[port].innerText = info.process ? `Processo: ${info.process} (PID: ${info.pid})` : "";
+            }
+        });
+
+        socket.on("connect", () => {
+            console.log("Conectado ao WebSocket!");
+            statusDiv.innerText = "Conectado";
+            statusDiv.className = "status connected";
+        });
+
+        socket.on("disconnect", () => {
+            console.log("Desconectado!");
+            statusDiv.innerText = "Desconectado";
+            statusDiv.className = "status disconnected";
+        });
+    </script>
+</body>
+</html>

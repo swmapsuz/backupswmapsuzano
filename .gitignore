@@ -1,0 +1,1 @@
+# Node.js dependenciesnode_modules/# Windows-specific files*.lnk*.exe*.bak*.tmp# Python cache and bytecode__pycache__/*.pyc# Environment files.env*.env.*# Log filesSwitchMap 1.0/backend/websocket/log/**.log*.log.txt# Temporary and build filesdist/build/*.spec# Ignorar arquivos do sistema$RECYCLE.BIN/System Volume Information/*.lnk
