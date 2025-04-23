@@ -1,0 +1,122 @@
+[
+    {
+        "id": "edit_20250422211400",
+        "timestamp": "2025-04-22T21:14:00.185766",
+        "changes": {
+            "ip": "10.22.16.24",
+            "nome": "BR-ES-FAB-ARA-SWA_POR_P.16.24.suzano.com.br",
+            "local": "",
+            "observacao": "ESTACAO DE TRATAMENTO DE ESGOTO",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "pending",
+        "submitted_by": "anonymous"
+    },
+    {
+        "id": "edit_20250422211546",
+        "timestamp": "2025-04-22T21:15:46.266654",
+        "changes": {
+            "ip": "10.22.16.69",
+            "nome": "BR-ES-FAB-ARA-SWA_CCMM.16.69.suzano.com.br",
+            "local": "-19.834660, -40.083693",
+            "observacao": "Torre CCM - Link Radio Portocel",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "pending",
+        "submitted_by": "anonymous"
+    },
+    {
+        "id": "edit_20250422211852",
+        "timestamp": "2025-04-22T21:18:52.115248",
+        "changes": {
+            "ip": "10.22.16.73",
+            "nome": "BR-ES-FAB-ARA-SWA_ABA.16.73.suzano.com.br",
+            "local": "",
+            "observacao": "Bloco Abastecimento-Abastecimento",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "pending",
+        "submitted_by": "anonymous"
+    },
+    {
+        "id": "edit_20250422212027",
+        "timestamp": "2025-04-22T21:20:27.514783",
+        "changes": {
+            "ip": "10.22.16.72",
+            "nome": "BR-ES-FAB-ARA-SWA_CCMM.16.72.suzano.com.br",
+            "local": "",
+            "observacao": "Pred.CCMM-Fisco",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "pending",
+        "submitted_by": "anonymous"
+    },
+    {
+        "id": "edit_20250422211400",
+        "timestamp": "2025-04-22T21:14:00.185766",
+        "changes": {
+            "ip": "10.22.16.24",
+            "nome": "BR-ES-FAB-ARA-SWA_POR_P.16.24.suzano.com.br",
+            "local": "",
+            "observacao": "ESTACAO DE TRATAMENTO DE ESGOTO",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-23T08:48:32.538840",
+        "processed_by": "anonymous"
+    },
+    {
+        "id": "edit_20250422211546",
+        "timestamp": "2025-04-22T21:15:46.266654",
+        "changes": {
+            "ip": "10.22.16.69",
+            "nome": "BR-ES-FAB-ARA-SWA_CCMM.16.69.suzano.com.br",
+            "local": "-19.834660, -40.083693",
+            "observacao": "Torre CCM - Link Radio Portocel",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-23T08:48:36.278102",
+        "processed_by": "anonymous"
+    },
+    {
+        "id": "edit_20250422211852",
+        "timestamp": "2025-04-22T21:18:52.115248",
+        "changes": {
+            "ip": "10.22.16.73",
+            "nome": "BR-ES-FAB-ARA-SWA_ABA.16.73.suzano.com.br",
+            "local": "",
+            "observacao": "Bloco Abastecimento-Abastecimento",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-23T08:48:38.467968",
+        "processed_by": "anonymous"
+    },
+    {
+        "id": "edit_20250422212027",
+        "timestamp": "2025-04-22T21:20:27.514783",
+        "changes": {
+            "ip": "10.22.16.72",
+            "nome": "BR-ES-FAB-ARA-SWA_CCMM.16.72.suzano.com.br",
+            "local": "",
+            "observacao": "Pred.CCMM-Fisco",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-23T08:48:40.282879",
+        "processed_by": "anonymous"
+    }
+]

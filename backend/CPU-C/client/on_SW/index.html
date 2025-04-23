@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logs de Conexão</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.5.4/socket.io.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 2rem;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            width: 100%;
+            max-width: 800px;
+        }
+
+        h1 {
+            color: #2a5298;
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .log-box {
+            background: #f0f4f8;
+            padding: 1rem;
+            border-radius: 10px;
+            max-height: 400px;
+            overflow-y: auto;
+            font-family: monospace;
+            font-size: 0.9em;
+        }
+
+        .log-entry {
+            margin-bottom: 0.5rem;
+        }
+
+        .success {
+            color: #28a745;
+        }
+
+        .denied {
+            color: #dc3545;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Logs de Conexão</h1>
+        <div class="log-box" id="logBox"></div>
+    </div>
+
+    <script>
+        const socket = io("http://172.16.196.36:5000"); // Ajustado para seu IP
+        const logBox = document.getElementById("logBox");
+
+        socket.on("log_update", (data) => {
+            data.logs.forEach(log => {
+                const logEntry = document.createElement("div");
+                logEntry.className = "log-entry";
+                logEntry.innerText = log;
+                if (log.includes("✅")) {
+                    logEntry.classList.add("success");
+                } else if (log.includes("🚫")) {
+                    logEntry.classList.add("denied");
+                }
+                logBox.appendChild(logEntry);
+            });
+            logBox.scrollTop = logBox.scrollHeight; // Rolagem automática
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapa Switches - Imperatriz</title>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://switch-map-dev-git-main-pedromouras-projects.vercel.app/frontend/source/style.css">
+
+    <script src="https://switch-map-dev-git-main-pedromouras-projects.vercel.app/frontend/source/script/locaisDeafult.js"></script>
+</head>
+<body>
+    <!-- Desenvolvido por pedromoura.idr@suzano.com.br -->
+
+    
+    <div id="map"></div>
+
+    <div class="mudartipo" id="mudartipo">
+        <div class="checkbox-wrapper-4">
+            <img src="https://i.ibb.co/1fMLrbg5/sat.png" id="mapToggleImage" alt="Alternar mapa" style="cursor: pointer;" onclick="alterarCor()"/>
+        </div>
+    </div>
+    
+    <span id="creditos">Desenvolvido por <b>Pedro Moura</b></span>
+    
+    <div class="titulo">
+        <button id="update" onclick="carregarDados()"><svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+            width="155.724px" height="155.723px" viewBox="0 0 155.724 155.723" style="enable-background:new 0 0 155.724 155.723;"
+            xml:space="preserve">
+       <g>
+           <g id="_x33_50._Repeat">
+               <g>
+                   <path d="M42.735,121.521c-12.77-10.273-20.942-26.025-20.942-43.691c0-26.114,17.882-47.992,42.051-54.23V9.154
+                       C31.854,15.646,7.776,43.927,7.776,77.83c0,20.951,9.199,39.738,23.767,52.578C42.819,140.911,49.827,126.894,42.735,121.521z
+                        M123.589,24.746c-7.18-6.485-17.693,4.028-10.801,9.236c12.888,10.27,21.143,26.097,21.143,43.848
+                       c0,26.118-17.885,48-42.052,54.234v14.449c31.99-6.499,56.068-34.776,56.068-68.684
+                       C147.947,56.602,138.502,37.596,123.589,24.746z M70.037,35.707l22.813-13.661c3.319-1.988,3.326-5.226,0.018-7.228L69.844,0.883
+                       c-3.312-1.999-5.985-0.49-5.969,3.381l0.124,28.035C64.009,36.168,66.714,37.695,70.037,35.707z M85.883,120.029l-23.027,13.935
+                       c-3.311,2.002-3.304,5.239,0.019,7.228l22.811,13.662c3.319,1.984,6.03,0.462,6.047-3.412l0.12-28.034
+                       C91.865,119.54,89.188,118.03,85.883,120.029z"/>
+               </g>
+           </g>
+       </g>
+       <g>
+       </g>
+       <g>
+       </g>
+       <g>
+       </g>
+       <g>
+       </g>
+       <g>
+       </g>
+       <g>
+       </g>
+       <g>
+       </g>
+       <g>
+       </g>
+       <g>
+       </g>
+       <g>
+       </g>
+       <g>
+       </g>
+       <g>
+       </g>
+       <g>
+       </g>
+       <g>
+       </g>
+       <g>
+       </g>
+       </svg>
+
+       <div id="dataHora"></div>
+       </button>
+        
+    </div>
+    <div class="container">
+
+        <div class="opcoes" id="opcoes">
+
+            <label for="ipBusca" class="pesquisa"> 
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+                    <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0"/>
+                </svg>
+                <input type="text" name="ipBusca" id="ipBusca" placeholder="Pesquisar por IP" onkeyup="pesquisarPorIP()">
+            </label>
+            
+            <button id="toggleShowSwitches" onclick="showSw()"><img src="https://switch-map-dev-git-main-pedromouras-projects.vercel.app/frontend/source/sw.png" alt=""></button>
+
+            
+            <button id="toggleLinesButton" onclick="countDependencias()">Dependencias</button>
+
+            <div class="menu">
+
+                            <!-- From Uiverse.io by pathikcomp --> 
+            <label class="main">
+                Atalhos
+                <input class="inp" checked="" type="checkbox" />
+                <div class="bar">
+                <span class="top bar-list"></span>
+                <span class="middle bar-list"></span>
+                <span class="bottom bar-list"></span>
+                </div>
+                <section class="menu-container">
+                <div class="menu-list" onclick="map.flyTo(visaoDefault, 4, { duration: 0.5 })"><b>Mapa geral</b></div>
+                <div class="menu-list" onclick="map.flyTo(imperatriz, 15, { duration: 0.5 })">Fabrica Imperatriz</div>
+                <div class="menu-list" onclick="map.flyTo(belem, 17, { duration: 0.5 })">Fabrica Belem</div>
+                <div class="menu-list" onclick="map.flyTo(aracruz, 15, { duration: 0.5 })">Fabrica Aracruz</div>
+                <div class="menu-list"><span class="pendente">Fabrica Jacarei</span></div>
+                <div class="menu-list"><span class="pendente">Fabrica Limeira</span></div>
+                <div class="menu-list"><span class="pendente">Fabrica Mogi</span></div>
+                <div class="menu-list"><span class="pendente">Fabrica Mucuri</span></div>
+                <div class="menu-list"><span class="pendente">Fabrica Ribas</span></div>
+                <div class="menu-list"><span class="pendente">Fabrica Suzano</span></div>
+                <div class="menu-list"><span class="pendente">Fabrica Tres Lagoas</span></div>
+                <div class="menu-list"><span class="pendente">Fabrica Rio Verde</span></div>
+                <div class="menu-list"><span class="pendente">Fabrica Maracanau</span></div>
+                <div class="menu-list"><span class="pendente">Fabrica Cach. Itapemirim</span></div>
+
+
+                </section>
+            </label>
+  
+            </div>
+
+        </div>
+        
+    </div>
+
+    <div class="popup" id="popup">
+        <!-- From Uiverse.io by revanth-004 --> 
+        <div class="popup-container">
+            <div class="popup success-popup">
+                <div class="popup-icon success-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="success-svg">
+                        <path fill-rule="evenodd" d="m12 1c-6.075 0-11 4.925-11 11s4.925 11 11 11 11-4.925 11-11-4.925-11-11-11zm4.768 9.14c.0878-.1004.1546-.21726.1966-.34383.0419-.12657.0581-.26026.0477-.39319-.0105-.13293-.0475-.26242-.1087-.38085-.0613-.11844-.1456-.22342-.2481-.30879-.1024-.08536-.2209-.14938-.3484-.18828s-.2616-.0519-.3942-.03823c-.1327.01366-.2612.05372-.3782.1178-.1169.06409-.2198.15091-.3027.25537l-4.3 5.159-2.225-2.226c-.1886-.1822-.4412-.283-.7034-.2807s-.51301.1075-.69842.2929-.29058.4362-.29285.6984c-.00228.2622.09851.5148.28067.7034l3 3c.0983.0982.2159.1748.3454.2251.1295.0502.2681.0729.4069.0665.1387-.0063.2747-.0414.3991-.1032.1244-.0617.2347-.1487.3236-.2554z" clip-rule="evenodd"></path>
+                    </svg>
+                </div>
+                <div class="success-message">Dados Carregados</div>
+                <div class="popup-icon close-icon" onclick="fecharFeedbackDados()">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" aria-hidden="true" class="close-svg">
+                        <path d="m15.8333 5.34166-1.175-1.175-4.6583 4.65834-4.65833-4.65834-1.175 1.175 4.65833 4.65834-4.65833 4.6583 1.175 1.175 4.65833-4.6583 4.6583 4.6583 1.175-1.175-4.6583-4.6583z" class="close-path"></path>
+                    </svg>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+
+    <div class="loading" id="loading">
+<!-- From Uiverse.io by Nawsome --> 
+<svg class="pl" viewBox="0 0 160 160" width="160px" height="160px" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="grad" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#000"></stop>
+            <stop offset="100%" stop-color="#fff"></stop>
+        </linearGradient>
+        <mask id="mask1">
+            <rect x="0" y="0" width="160" height="160" fill="url(#grad)"></rect>
+        </mask>
+        <mask id="mask2">
+            <rect x="28" y="28" width="104" height="104" fill="url(#grad)"></rect>
+        </mask>
+    </defs>
+    
+    <g>
+        <g class="pl__ring-rotate">
+            <circle class="pl__ring-stroke" cx="80" cy="80" r="72" fill="none" stroke="hsl(223,90%,55%)" stroke-width="16" stroke-dasharray="452.39 452.39" stroke-dashoffset="452" stroke-linecap="round" transform="rotate(-45,80,80)"></circle>
+        </g>
+    </g>
+    <g mask="url(#mask1)">
+        <g class="pl__ring-rotate">
+            <circle class="pl__ring-stroke" cx="80" cy="80" r="72" fill="none" stroke="hsl(193,90%,55%)" stroke-width="16" stroke-dasharray="452.39 452.39" stroke-dashoffset="452" stroke-linecap="round" transform="rotate(-45,80,80)"></circle>
+        </g>
+    </g>
+    
+    <g>
+        <g stroke-width="4" stroke-dasharray="12 12" stroke-dashoffset="12" stroke-linecap="round" transform="translate(80,80)">
+            <polyline class="pl__tick" stroke="hsl(223,10%,90%)" points="0,2 0,14" transform="rotate(-135,0,0) translate(0,40)"></polyline>
+            <polyline class="pl__tick" stroke="hsl(223,10%,90%)" points="0,2 0,14" transform="rotate(-90,0,0) translate(0,40)"></polyline>
+            <polyline class="pl__tick" stroke="hsl(223,10%,90%)" points="0,2 0,14" transform="rotate(-45,0,0) translate(0,40)"></polyline>
+            <polyline class="pl__tick" stroke="hsl(223,10%,90%)" points="0,2 0,14" transform="rotate(0,0,0) translate(0,40)"></polyline>
+            <polyline class="pl__tick" stroke="hsl(223,10%,90%)" points="0,2 0,14" transform="rotate(45,0,0) translate(0,40)"></polyline>
+            <polyline class="pl__tick" stroke="hsl(223,10%,90%)" points="0,2 0,14" transform="rotate(90,0,0) translate(0,40)"></polyline>
+            <polyline class="pl__tick" stroke="hsl(223,10%,90%)" points="0,2 0,14" transform="rotate(135,0,0) translate(0,40)"></polyline>
+            <polyline class="pl__tick" stroke="hsl(223,10%,90%)" points="0,2 0,14" transform="rotate(180,0,0) translate(0,40)"></polyline>
+        </g>
+    </g>
+    <g mask="url(#mask1)">
+        <g stroke-width="4" stroke-dasharray="12 12" stroke-dashoffset="12" stroke-linecap="round" transform="translate(80,80)">
+            <polyline class="pl__tick" stroke="hsl(223,90%,80%)" points="0,2 0,14" transform="rotate(-135,0,0) translate(0,40)"></polyline>
+            <polyline class="pl__tick" stroke="hsl(223,90%,80%)" points="0,2 0,14" transform="rotate(-90,0,0) translate(0,40)"></polyline>
+            <polyline class="pl__tick" stroke="hsl(223,90%,80%)" points="0,2 0,14" transform="rotate(-45,0,0) translate(0,40)"></polyline>
+            <polyline class="pl__tick" stroke="hsl(223,90%,80%)" points="0,2 0,14" transform="rotate(0,0,0) translate(0,40)"></polyline>
+            <polyline class="pl__tick" stroke="hsl(223,90%,80%)" points="0,2 0,14" transform="rotate(45,0,0) translate(0,40)"></polyline>
+            <polyline class="pl__tick" stroke="hsl(223,90%,80%)" points="0,2 0,14" transform="rotate(90,0,0) translate(0,40)"></polyline>
+            <polyline class="pl__tick" stroke="hsl(223,90%,80%)" points="0,2 0,14" transform="rotate(135,0,0) translate(0,40)"></polyline>
+            <polyline class="pl__tick" stroke="hsl(223,90%,80%)" points="0,2 0,14" transform="rotate(180,0,0) translate(0,40)"></polyline>
+        </g>
+    </g>
+    
+    <g>
+        <g transform="translate(64,28)">
+            <g class="pl__arrows" transform="rotate(45,16,52)">
+                <path fill="hsl(3,90%,55%)" d="M17.998,1.506l13.892,43.594c.455,1.426-.56,2.899-1.998,2.899H2.108c-1.437,0-2.452-1.473-1.998-2.899L14.002,1.506c.64-2.008,3.356-2.008,3.996,0Z"></path>
+                <path fill="hsl(223,10%,90%)" d="M14.009,102.499L.109,58.889c-.453-1.421,.559-2.889,1.991-2.889H29.899c1.433,0,2.444,1.468,1.991,2.889l-13.899,43.61c-.638,2.001-3.345,2.001-3.983,0Z"></path>
+            </g>
+        </g>
+    </g>
+    <g mask="url(#mask2)">
+        <g transform="translate(64,28)">
+            <g class="pl__arrows" transform="rotate(45,16,52)">
+                <path fill="hsl(333,90%,55%)" d="M17.998,1.506l13.892,43.594c.455,1.426-.56,2.899-1.998,2.899H2.108c-1.437,0-2.452-1.473-1.998-2.899L14.002,1.506c.64-2.008,3.356-2.008,3.996,0Z"></path>
+                <path fill="hsl(223,90%,80%)" d="M14.009,102.499L.109,58.889c-.453-1.421,.559-2.889,1.991-2.889H29.899c1.433,0,2.444,1.468,1.991,2.889l-13.899,43.61c-.638,2.001-3.345,2.001-3.983,0Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>
+
+    </div>
+
+    <div id="css-sw"></div>
+
+        <script src="https://switch-map-dev-git-main-pedromouras-projects.vercel.app/frontend/source/script/info.js"></script>
+        <script src="https://switch-map-dev-git-main-pedromouras-projects.vercel.app/frontend/source/script/open.js"></script>
+        <script src="https://switch-map-dev-git-main-pedromouras-projects.vercel.app/frontend/source/script/scriptDados.js"></script>
+        <script src="https://switch-map-dev-git-main-pedromouras-projects.vercel.app/frontend/source/script/manipularMapa.js"></script>
+        <script src="https://switch-map-dev-git-main-pedromouras-projects.vercel.app/frontend/source/script/error.js"></script>
+        <script src="https://switch-map-dev-git-main-pedromouras-projects.vercel.app/frontend/source/script/credits.js"></script>
+        
+</body>
+</html>

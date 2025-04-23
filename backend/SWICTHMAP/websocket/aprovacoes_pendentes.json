@@ -1,0 +1,130 @@
+[
+    {
+        "id": "edit_20250416132240",
+        "timestamp": "2025-04-16T13:22:40.001919",
+        "changes": {
+            "ip": "172.16.124.17",
+            "nome": "BR-MA-FAB-IMP-SWA_CAPT_EMISSAO_R1.124.17",
+            "local": "-5.456919, -47.609307",
+            "observacao": "Unid captação de àgua",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-16T13:22:45.695418",
+        "processed_by": "anonymous"
+    },
+    {
+        "id": "edit_20250416132346",
+        "timestamp": "2025-04-16T13:23:46.712030",
+        "changes": {
+            "ip": "172.16.124.17",
+            "nome": "BR-MA-FAB-IMP-SWA_CAPT_EMISSAO_R1.124.17",
+            "local": "-5.456919, -47.609307",
+            "observacao": "Captação de àgua",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-16T13:23:52.156583",
+        "processed_by": "anonymous"
+    },
+    {
+        "id": "edit_20250416134312",
+        "timestamp": "2025-04-16T13:43:12.542432",
+        "changes": {
+            "ip": "172.16.124.17",
+            "nome": "BR-MA-FAB-IMP-SWA_CAPT_EMISSAO_R1.124.17",
+            "local": "-5.456919, -47.609307",
+            "observacao": "Unidade de Captação de Agua",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "reject",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-16T13:53:25.704293",
+        "processed_by": "anonymous"
+    },
+    {
+        "id": "edit_20250422122237",
+        "timestamp": "2025-04-22T12:22:37.153155",
+        "changes": {
+            "ip": "10.22.16.86",
+            "nome": "BR-ES-FAB-ARA-SWA_082.16.86.suzano.com.br",
+            "local": "-19.84171370591188, -40.09076784126128",
+            "observacao": "Teste",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "reject",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-22T12:25:29.862615",
+        "processed_by": "anonymous"
+    },
+    {
+        "id": "edit_20250422211400",
+        "timestamp": "2025-04-22T21:14:00.185766",
+        "changes": {
+            "ip": "10.22.16.24",
+            "nome": "BR-ES-FAB-ARA-SWA_POR_P.16.24.suzano.com.br",
+            "local": "",
+            "observacao": "ESTACAO DE TRATAMENTO DE ESGOTO",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-23T08:48:32.538840",
+        "processed_by": "anonymous"
+    },
+    {
+        "id": "edit_20250422211546",
+        "timestamp": "2025-04-22T21:15:46.266654",
+        "changes": {
+            "ip": "10.22.16.69",
+            "nome": "BR-ES-FAB-ARA-SWA_CCMM.16.69.suzano.com.br",
+            "local": "-19.834660, -40.083693",
+            "observacao": "Torre CCM - Link Radio Portocel",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-23T08:48:36.278102",
+        "processed_by": "anonymous"
+    },
+    {
+        "id": "edit_20250422211852",
+        "timestamp": "2025-04-22T21:18:52.115248",
+        "changes": {
+            "ip": "10.22.16.73",
+            "nome": "BR-ES-FAB-ARA-SWA_ABA.16.73.suzano.com.br",
+            "local": "",
+            "observacao": "Bloco Abastecimento-Abastecimento",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-23T08:48:38.467968",
+        "processed_by": "anonymous"
+    },
+    {
+        "id": "edit_20250422212027",
+        "timestamp": "2025-04-22T21:20:27.514783",
+        "changes": {
+            "ip": "10.22.16.72",
+            "nome": "BR-ES-FAB-ARA-SWA_CCMM.16.72.suzano.com.br",
+            "local": "",
+            "observacao": "Pred.CCMM-Fisco",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-23T08:48:40.282879",
+        "processed_by": "anonymous"
+    }
+]
