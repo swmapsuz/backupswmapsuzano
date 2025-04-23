@@ -17,3 +17,4 @@
 2025-04-23 12:56:14,379 - INFO -  * Detected change in 'C:\\Users\\pedromoura.idr\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\threading.py', reloading
 2025-04-23 12:56:14,385 - INFO -  * Detected change in 'C:\\Users\\pedromoura.idr\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask_socketio\\__init__.py', reloading
 2025-04-23 12:56:14,403 - INFO -  * Detected change in 'C:\\Users\\pedromoura.idr\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\eventlet\\convenience.py', reloading
+2025-04-23 12:56:15,133 - INFO -  * Restarting with watchdog (windowsapi)
