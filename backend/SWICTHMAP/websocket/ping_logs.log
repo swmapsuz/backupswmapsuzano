@@ -3802,3 +3802,11 @@
 2025-04-23 15:46:03,696 - INFO - Atualização concluída em 74.80s | Online: 796/846 | IPs prioritários: 0
 2025-04-23 15:47:55,969 - INFO - Iniciando atualização de pings para 843 hosts
 2025-04-23 15:48:01,013 - DEBUG - IP 172.16.124.190 offline: tempo_resposta=-1
+2025-04-23 15:48:21,825 - INFO - Servidor iniciando em 10.94.9.182:5000
+2025-04-23 15:48:21,844 - INFO - Inicializando dados e atualizando valores dos hosts
+2025-04-23 15:48:21,845 - ERROR - Erro ao carregar resultados.json: [Errno 2] No such file or directory: 'c:\\ENTUITY\\resultados.json'
+2025-04-23 15:48:21,846 - WARNING - Nenhum resultado carregado de resultados.json
+2025-04-23 15:48:21,891 - INFO - Iniciando serviço de ping em thread separada
+2025-04-23 15:48:21,904 - DEBUG - Using proactor: IocpProactor
+2025-04-23 15:48:22,071 - INFO - Iniciando atualização de pings para 843 hosts
+2025-04-23 15:48:27,158 - DEBUG - IP 172.16.124.190 offline: tempo_resposta=-1
