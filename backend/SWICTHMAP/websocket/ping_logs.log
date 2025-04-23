@@ -3810,3 +3810,54 @@
 2025-04-23 15:48:21,904 - DEBUG - Using proactor: IocpProactor
 2025-04-23 15:48:22,071 - INFO - Iniciando atualização de pings para 843 hosts
 2025-04-23 15:48:27,158 - DEBUG - IP 172.16.124.190 offline: tempo_resposta=-1
+2025-04-23 15:48:36,535 - DEBUG - IP 172.16.20.146 offline: tempo_resposta=-1
+2025-04-23 15:48:36,553 - DEBUG - IP 172.16.189.66 offline: tempo_resposta=-1
+2025-04-23 15:48:38,483 - DEBUG - IP 172.16.122.45 offline: tempo_resposta=-1
+2025-04-23 15:48:38,483 - DEBUG - IP 172.16.19.5 offline: tempo_resposta=-1
+2025-04-23 15:48:38,483 - DEBUG - IP 172.16.13.4 offline: tempo_resposta=-1
+2025-04-23 15:48:38,483 - DEBUG - IP 172.16.13.1 offline: tempo_resposta=-1
+2025-04-23 15:48:38,483 - DEBUG - IP 172.16.151.20 offline: tempo_resposta=-1
+2025-04-23 15:48:39,640 - DEBUG - IP 172.16.155.232 offline: tempo_resposta=-1
+2025-04-23 15:48:39,671 - DEBUG - IP 172.16.191.232 offline: tempo_resposta=-1
+2025-04-23 15:48:43,488 - DEBUG - IP 172.16.132.15 offline: tempo_resposta=-1
+2025-04-23 15:48:43,488 - DEBUG - IP 10.22.16.83 offline: tempo_resposta=-1
+2025-04-23 15:48:48,494 - DEBUG - IP 10.22.16.35 offline: tempo_resposta=-1
+2025-04-23 15:48:48,494 - DEBUG - IP 10.22.16.33 offline: tempo_resposta=-1
+2025-04-23 15:48:48,494 - DEBUG - IP 172.16.43.5 offline: tempo_resposta=-1
+2025-04-23 15:48:49,651 - DEBUG - IP 172.16.41.4 offline: tempo_resposta=-1
+2025-04-23 15:48:49,666 - DEBUG - IP 172.16.62.181 offline: tempo_resposta=-1
+2025-04-23 15:48:49,666 - DEBUG - IP 172.16.62.159 offline: tempo_resposta=-1
+2025-04-23 15:48:49,682 - DEBUG - IP 172.16.62.169 offline: tempo_resposta=-1
+2025-04-23 15:48:49,682 - DEBUG - IP 172.16.62.168 offline: tempo_resposta=-1
+2025-04-23 15:48:51,574 - DEBUG - IP 172.16.41.5 offline: tempo_resposta=-1
+2025-04-23 15:48:53,515 - DEBUG - IP 10.21.44.7 offline: tempo_resposta=-1
+2025-04-23 15:48:53,515 - DEBUG - IP 172.16.46.6 offline: tempo_resposta=-1
+2025-04-23 15:48:53,516 - DEBUG - IP 172.16.30.82 offline: tempo_resposta=-1
+2025-04-23 15:48:53,516 - DEBUG - IP 172.16.14.26 offline: tempo_resposta=-1
+2025-04-23 15:48:53,518 - DEBUG - IP 172.16.43.7 offline: tempo_resposta=-1
+2025-04-23 15:48:57,743 - DEBUG - IP 172.16.62.134 offline: tempo_resposta=-1
+2025-04-23 15:48:57,849 - DEBUG - IP 172.16.166.9 offline: tempo_resposta=-1
+2025-04-23 15:48:57,851 - DEBUG - IP 172.16.166.4 offline: tempo_resposta=-1
+2025-04-23 15:48:57,862 - DEBUG - IP 172.16.166.5 offline: tempo_resposta=-1
+2025-04-23 15:48:57,863 - DEBUG - IP 172.16.166.7 offline: tempo_resposta=-1
+2025-04-23 15:48:57,865 - DEBUG - IP 172.16.166.6 offline: tempo_resposta=-1
+2025-04-23 15:48:57,866 - DEBUG - IP 172.16.166.8 offline: tempo_resposta=-1
+2025-04-23 15:48:57,867 - DEBUG - IP 172.16.164.2 offline: tempo_resposta=-1
+2025-04-23 15:48:57,868 - DEBUG - IP 172.16.166.10 offline: tempo_resposta=-1
+2025-04-23 15:48:57,880 - DEBUG - IP 172.16.166.2 offline: tempo_resposta=-1
+2025-04-23 15:48:57,881 - DEBUG - IP 172.16.166.3 offline: tempo_resposta=-1
+2025-04-23 15:49:01,621 - DEBUG - IP 172.16.137.1 offline: tempo_resposta=-1
+2025-04-23 15:49:01,621 - DEBUG - IP 172.16.180.18 offline: tempo_resposta=-1
+2025-04-23 15:49:01,622 - DEBUG - IP 172.16.137.2 offline: tempo_resposta=-1
+2025-04-23 15:49:01,623 - DEBUG - IP 172.16.137.3 offline: tempo_resposta=-1
+2025-04-23 15:49:01,624 - DEBUG - IP 172.16.137.4 offline: tempo_resposta=-1
+2025-04-23 15:49:01,624 - DEBUG - IP 172.16.137.5 offline: tempo_resposta=-1
+2025-04-23 15:49:06,652 - DEBUG - IP 172.16.120.48 offline: tempo_resposta=-1
+2025-04-23 15:49:06,652 - DEBUG - IP 10.16.194.37 offline: tempo_resposta=-1
+2025-04-23 15:49:11,665 - DEBUG - IP 10.16.194.29 offline: tempo_resposta=-1
+2025-04-23 15:49:19,786 - DEBUG - IP 10.129.0.80 offline: tempo_resposta=-1
+2025-04-23 15:49:34,091 - DEBUG - IP 172.16.31.3 offline: tempo_resposta=-1
+2025-04-23 15:49:34,194 - DEBUG - Enviando dados atualizados para DataManager
+2025-04-23 15:49:34,194 - DEBUG - Dados mudaram, atualizando arquivo
+2025-04-23 15:49:34,619 - DEBUG - Dados gravados em A:\SwitchMap\backend\SWICTHMAP\websocket\dados.json
+2025-04-23 15:49:34,638 - INFO - Atualização concluída em 72.73s | Online: 798/846 | IPs prioritários: 0
