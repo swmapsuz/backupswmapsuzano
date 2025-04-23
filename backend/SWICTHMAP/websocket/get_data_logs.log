@@ -1033,3 +1033,6 @@
 2025-04-23 13:00:57,760 - INFO - Hostnames confiáveis atualizados do endpoint remoto: ['NLENPE09TLLH', 'nlenpe09tllh.suzano.com.br', 'DESKTOP-4UEQKKN', 'NLENPE09Y58J.suzano.com.br', 'ndel3pnlpz2.suzano.com.br', 'NDEL6Z13TZ3.suzano.com.br', 'NDELGBDXSZ3.suzano.com.br', 'IMPWVREP001.suzano.com.br', 'nlenpe09y5vh.suzano.com.br', 'NDELDMKR044.suzano.com.br', 'ndeldmkr044.suzano.com.br', 'Desconhecido', 'tecimp', 'NDELFQNR8G3.suzano.com.br', 'ndelfqnr8g3.suzano.com.br', 'DDEL17SBVZ3.suzano.com.br', 'ddel17sbvz3.suzano.com.br']
 2025-04-23 13:00:57,761 - INFO - 2025-04-23 13:00:57 - ✅ Dados mesclados consultados por NLENPE09TLLH
 2025-04-23 13:00:57,940 - INFO - 10.94.8.200 - - [23/Apr/2025 13:00:57] "GET /get-data HTTP/1.1" 200 -
+2025-04-23 13:00:58,031 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-23 13:00:59,100 - WARNING -  * Debugger is active!
+2025-04-23 13:00:59,112 - INFO -  * Debugger PIN: 317-198-958
