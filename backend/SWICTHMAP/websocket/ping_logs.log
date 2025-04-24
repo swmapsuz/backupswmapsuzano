@@ -38986,3 +38986,10 @@
 2025-04-24 19:51:43,500 - DEBUG - IP 172.16.137.1 offline: tempo_resposta=-1
 2025-04-24 19:51:43,500 - DEBUG - IP 172.16.137.4 offline: tempo_resposta=-1
 2025-04-24 19:51:48,526 - DEBUG - IP 10.16.194.37 offline: tempo_resposta=-1
+2025-04-24 19:51:53,542 - DEBUG - IP 10.16.194.29 offline: tempo_resposta=-1
+2025-04-24 19:51:59,837 - DEBUG - IP 10.129.0.80 offline: tempo_resposta=-1
+2025-04-24 19:52:08,401 - DEBUG - IP 172.16.31.3 offline: tempo_resposta=-1
+2025-04-24 19:52:08,448 - DEBUG - Enviando dados atualizados para DataManager
+2025-04-24 19:52:08,448 - DEBUG - Dados mudaram, atualizando arquivo
+2025-04-24 19:52:08,698 - DEBUG - Dados gravados em A:\SwitchMap\backend\SWICTHMAP\websocket\dados.json
+2025-04-24 19:52:08,713 - INFO - Atualização concluída em 60.88s | Online: 798/846 | IPs prioritários: 0
