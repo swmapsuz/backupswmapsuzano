@@ -170,5 +170,19 @@
         },
         "status": "pending",
         "submitted_by": "anonymous"
+    },
+    {
+        "id": "edit_20250424113048",
+        "timestamp": "2025-04-24T11:30:48.344557",
+        "changes": {
+            "ip": "172.16.122.47",
+            "nome": "BR-BA-FAB-MUC-SWA_LAB_ETA.122.47.suzano.com.br",
+            "local": "-18.041860, -39.926768",
+            "observacao": "ETA",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "pending",
+        "submitted_by": "anonymous"
     }
 ]
