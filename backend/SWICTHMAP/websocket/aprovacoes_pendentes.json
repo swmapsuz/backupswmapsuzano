@@ -126,5 +126,19 @@
         "submitted_by": "anonymous",
         "processed_at": "2025-04-23T08:48:40.282879",
         "processed_by": "anonymous"
+    },
+    {
+        "id": "edit_20250424080634",
+        "timestamp": "2025-04-24T08:06:34.198489",
+        "changes": {
+            "ip": "172.16.189.66",
+            "nome": "BR-CE-CDL-FOR-SWC.189.66.suzano.com.br",
+            "local": "-3.756160, -38.523908",
+            "observacao": "CDL Fortaleza",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "pending",
+        "submitted_by": "anonymous"
     }
 ]
