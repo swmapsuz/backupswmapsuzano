@@ -154,8 +154,10 @@
             "tipo": "sw",
             "ativo": "#00d700"
         },
-        "status": "pending",
-        "submitted_by": "anonymous"
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-28T12:20:18.566914",
+        "processed_by": "anonymous"
     },
     {
         "id": "edit_20250424112230",
@@ -168,8 +170,10 @@
             "tipo": "sw",
             "ativo": "#00d700"
         },
-        "status": "pending",
-        "submitted_by": "anonymous"
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-28T12:20:19.826222",
+        "processed_by": "anonymous"
     },
     {
         "id": "edit_20250424113048",
@@ -182,8 +186,10 @@
             "tipo": "sw",
             "ativo": "#00d700"
         },
-        "status": "pending",
-        "submitted_by": "anonymous"
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-28T12:20:20.639683",
+        "processed_by": "anonymous"
     },
     {
         "id": "edit_20250424113132",
@@ -196,8 +202,10 @@
             "tipo": "sw",
             "ativo": "#00d700"
         },
-        "status": "pending",
-        "submitted_by": "anonymous"
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-28T12:20:21.077558",
+        "processed_by": "anonymous"
     },
     {
         "id": "edit_20250424150739",
@@ -210,8 +218,10 @@
             "tipo": "sw",
             "ativo": "#00d700"
         },
-        "status": "pending",
-        "submitted_by": "anonymous"
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-28T12:20:21.468407",
+        "processed_by": "anonymous"
     },
     {
         "id": "edit_20250424150819",
@@ -224,8 +234,10 @@
             "tipo": "sw",
             "ativo": "#00d700"
         },
-        "status": "pending",
-        "submitted_by": "anonymous"
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-28T12:20:21.896226",
+        "processed_by": "anonymous"
     },
     {
         "id": "edit_20250424150902",
@@ -238,7 +250,9 @@
             "tipo": "sw",
             "ativo": "#00d700"
         },
-        "status": "pending",
-        "submitted_by": "anonymous"
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-28T12:20:22.485397",
+        "processed_by": "anonymous"
     }
 ]

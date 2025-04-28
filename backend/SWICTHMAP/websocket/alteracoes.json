@@ -246,5 +246,117 @@
         },
         "status": "pending",
         "submitted_by": "anonymous"
+    },
+    {
+        "id": "edit_20250424112204",
+        "timestamp": "2025-04-24T11:22:04.697029",
+        "changes": {
+            "ip": "172.16.122.48",
+            "nome": "BR-BA-FAB-MUC-SWA_BL3_L2.122.48.suzano.com.br",
+            "local": "-18.036851, -39.923147",
+            "observacao": "LINHA 2",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-28T12:20:18.566914",
+        "processed_by": "anonymous"
+    },
+    {
+        "id": "edit_20250424112230",
+        "timestamp": "2025-04-24T11:22:30.485481",
+        "changes": {
+            "ip": "172.16.122.29",
+            "nome": "BR-BA-FAB-MUC-SWA_CECON.122.29.suzano.com.br",
+            "local": "-18.036999, -39.931709",
+            "observacao": "CELOG",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-28T12:20:19.826222",
+        "processed_by": "anonymous"
+    },
+    {
+        "id": "edit_20250424113048",
+        "timestamp": "2025-04-24T11:30:48.344557",
+        "changes": {
+            "ip": "172.16.122.47",
+            "nome": "BR-BA-FAB-MUC-SWA_LAB_ETA.122.47.suzano.com.br",
+            "local": "-18.041860, -39.926768",
+            "observacao": "ETA",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-28T12:20:20.639683",
+        "processed_by": "anonymous"
+    },
+    {
+        "id": "edit_20250424113132",
+        "timestamp": "2025-04-24T11:31:32.323021",
+        "changes": {
+            "ip": "172.16.122.80",
+            "nome": "BR-BA-FAB-MUC-SWA_OFC_Gruas.122.80.suzano.com.br",
+            "local": "-18.037249, -39.932036",
+            "observacao": "GRUAS",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-28T12:20:21.077558",
+        "processed_by": "anonymous"
+    },
+    {
+        "id": "edit_20250424150739",
+        "timestamp": "2025-04-24T15:07:39.579439",
+        "changes": {
+            "ip": "172.16.122.77",
+            "nome": "BR-BA-FAB-MUC-SWA_MAQPAP_BOBINA.122.77.suzano.com.br",
+            "local": "-18.039136, -39.922798",
+            "observacao": "Bobina",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-28T12:20:21.468407",
+        "processed_by": "anonymous"
+    },
+    {
+        "id": "edit_20250424150819",
+        "timestamp": "2025-04-24T15:08:19.057939",
+        "changes": {
+            "ip": "172.16.122.74",
+            "nome": "BR-BA-FAB-MUC-SWA_MAQPAP_EMBAL.122.74.suzano.com.br",
+            "local": "-18.039570, -39.922552",
+            "observacao": "Embaladeira",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-28T12:20:21.896226",
+        "processed_by": "anonymous"
+    },
+    {
+        "id": "edit_20250424150902",
+        "timestamp": "2025-04-24T15:09:02.005879",
+        "changes": {
+            "ip": "172.16.122.108",
+            "nome": "BR-BA-FAB-MUC-SWA_MAQPAP_LAB.122.108.suzano.com.br",
+            "local": "-18.038391, -39.924247",
+            "observacao": "Laboratório Papel",
+            "tipo": "sw",
+            "ativo": "#00d700"
+        },
+        "status": "approve",
+        "submitted_by": "anonymous",
+        "processed_at": "2025-04-28T12:20:22.485397",
+        "processed_by": "anonymous"
     }
 ]
