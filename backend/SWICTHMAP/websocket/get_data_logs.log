@@ -4106,3 +4106,5 @@
 2025-05-08 16:42:25,226 - INFO - 2025-05-08 16:42:25 - ✅ Dados mesclados consultados por NLENPE09TLLH
 2025-05-08 16:42:25,366 - INFO - 10.94.9.190 - - [08/May/2025 16:42:25] "GET /get-data HTTP/1.1" 200 -
 2025-05-08 16:42:25,689 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-08 16:42:26,959 - WARNING -  * Debugger is active!
+2025-05-08 16:42:26,975 - INFO -  * Debugger PIN: 317-198-958
