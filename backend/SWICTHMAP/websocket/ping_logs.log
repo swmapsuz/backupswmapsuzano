@@ -1,0 +1,8 @@
+2025-05-08 16:31:50,519 - INFO - Servidor iniciando em 10.94.9.182:5000
+2025-05-08 16:31:50,528 - INFO - Inicializando dados e atualizando valores dos hosts
+2025-05-08 16:31:50,529 - ERROR - Erro ao carregar resultados.json: [Errno 2] No such file or directory: 'c:\\ENTUITY\\resultados.json'
+2025-05-08 16:31:50,529 - WARNING - Nenhum resultado carregado de resultados.json
+2025-05-08 16:31:50,535 - INFO - Iniciando serviço de ping em thread separada
+2025-05-08 16:31:50,537 - DEBUG - Using proactor: IocpProactor
+2025-05-08 16:31:50,620 - INFO - Iniciando atualização de pings para 843 hosts
+2025-05-08 16:31:55,659 - DEBUG - IP 172.16.124.190 offline: tempo_resposta=-1
