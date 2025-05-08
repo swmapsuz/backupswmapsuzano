@@ -736,3 +736,15 @@ MM deploy_log.txt
 2025-05-08 17:41:42.331008: Deploy concluído com sucesso!
 2025-05-08 17:41:42.331008: Aguardando para o próximo deploy...
 2025-05-08 17:42:42.332733: Iniciando deploy às 2025-05-08 17:42:42
+2025-05-08 17:42:42.834724: 
+2025-05-08 17:42:43.223003: Arquivos alterados:
+M  backend/SWICTHMAP/websocket/dados.json
+MM deploy_log.txt
+
+2025-05-08 17:42:43.838996: [main dd010add] Backup automatizado: 2025-05-08 17:42:43
+ 2 files changed, 760 insertions(+), 749 deletions(-)
+
+2025-05-08 17:42:48.317366: 
+2025-05-08 17:42:48.318364: Deploy concluído com sucesso!
+2025-05-08 17:42:48.318364: Aguardando para o próximo deploy...
+2025-05-08 17:43:48.320005: Iniciando deploy às 2025-05-08 17:43:48
