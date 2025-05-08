@@ -3072,3 +3072,15 @@
 2025-04-23 15:49:52,134 - INFO - Hostnames confiáveis atualizados do endpoint remoto: ['NLENPE09TLLH', 'nlenpe09tllh.suzano.com.br', 'DESKTOP-4UEQKKN', 'NLENPE09Y58J.suzano.com.br', 'ndel3pnlpz2.suzano.com.br', 'NDEL6Z13TZ3.suzano.com.br', 'NDELGBDXSZ3.suzano.com.br', 'IMPWVREP001.suzano.com.br', 'nlenpe09y5vh.suzano.com.br', 'NDELDMKR044.suzano.com.br', 'ndeldmkr044.suzano.com.br', 'Desconhecido', 'tecimp', 'NDELFQNR8G3.suzano.com.br', 'ndelfqnr8g3.suzano.com.br', 'DDEL17SBVZ3.suzano.com.br', 'ddel17sbvz3.suzano.com.br']
 2025-04-23 15:49:52,134 - INFO - 2025-04-23 15:49:52 - ✅ Dados mesclados consultados por NLENPE09TLLH
 2025-04-23 15:49:52,291 - INFO - 10.94.8.200 - - [23/Apr/2025 15:49:52] "GET /get-data HTTP/1.1" 200 -
+2025-05-08 16:28:33,505 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.94.9.182:5001
+2025-05-08 16:28:33,505 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-08 16:28:33,567 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-08 16:28:36,083 - WARNING -  * Debugger is active!
+2025-05-08 16:28:36,099 - INFO -  * Debugger PIN: 317-198-958
+2025-05-08 16:28:38,146 - INFO -  * Detected change in 'C:\\Users\\pedromoura.idr\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\threading.py', reloading
+2025-05-08 16:28:38,225 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-08 16:28:39,539 - WARNING -  * Debugger is active!
+2025-05-08 16:28:39,539 - INFO -  * Debugger PIN: 317-198-958
