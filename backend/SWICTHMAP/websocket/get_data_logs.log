@@ -3084,3 +3084,1025 @@
 2025-05-08 16:28:38,225 - INFO -  * Restarting with watchdog (windowsapi)
 2025-05-08 16:28:39,539 - WARNING -  * Debugger is active!
 2025-05-08 16:28:39,539 - INFO -  * Debugger PIN: 317-198-958
+2025-05-08 16:31:55,295 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.94.9.182:5001
+2025-05-08 16:31:55,295 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-08 16:31:55,308 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-08 16:32:00,970 - WARNING -  * Debugger is active!
+2025-05-08 16:32:00,988 - INFO -  * Debugger PIN: 317-198-958
+2025-05-08 16:42:24,075 - INFO - Mesclando dados.json com resultados.json
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.61
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.60
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.59
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.188
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.26
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.17
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.16
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.28
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.189
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.190
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.135
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.133
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.6
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.22
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.134
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.18
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.132
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.41
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.55
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.13
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.66
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.62
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.24
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.57
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.21
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.40
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.11
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.38
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.56
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.32
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.137
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.10
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.23
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.33
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.19
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.51
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.43
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.8
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.35
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.9
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.58
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.54
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.20
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.122
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.140
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.155
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.31
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.141
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.136
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.154
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.3
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.253
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.98
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.4
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.14
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.191
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.27
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.7
+2025-05-08 16:42:24,108 - INFO - Mesclado valores e ports para IP 172.16.124.5
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.124.30
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.58.52
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.58.49
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.58.43
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.58.39
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.58.42
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.58.47
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.58.37
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.58.35
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.58.36
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.58.55
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.58.46
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.58.48
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.58.53
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.58.51
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.58.54
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.58.34
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.58.38
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.189.100
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.34.1
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-CM-MCA-SWC_PRED_JM.30.2.suzano.com.br
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.123.5
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-CM-MCA-SWA_PRED_RECEPCAO.30.3.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-ESC-SAL-SWC.18.1.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-CM-MTX-SWC-CPD.123.4.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_BL2_L2.122.21.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_BL2_L2.122.49.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_BL3_L2.122.48.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_CECON.122.29.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_BOMB.122.26.suzano.com.br
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.122.186
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_DEP_BOB_Tissue.122.251.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_DEPMED.122.90.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_EXP_L1.122.24.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_EXP_L1_CAPTACAO.122.78.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_EMBFOLIO.122.39.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_EXP_L1.122.87.suzano.com.br
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.122.11
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.122.34
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.122.86
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.122.151
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.122.92
+2025-05-08 16:42:24,124 - INFO - Mesclado valores e ports para IP 172.16.122.249
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-CDL-SAL-SWC_RACK_TI.34.1.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-AM-CDL-MAN-SWC_RACK_TI.189.100.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_EXAUST.122.11.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_EXP_Tissue.122.151.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_EXP_L2_LB.122.34.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_EXP_MAQFOLI.122.86.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_EXP_MC_L1.122.92.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_EXP_Tissue.122.249.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_GEM_ALX.122.57.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_FOLIO.122.112.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_FRIOAR.122.15.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_GEM_ALX2.122.69.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_FOLIO.122.113.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_HOUSEKEEP.122.40.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_GEM_ESCPLAN.122.37.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_GEM_SALA_CALD.122.43.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_GEMAN.122.245.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_GESUC.122.56.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_JM_GEMAN.122.70.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_JM_ADM.122.122.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_JM_GEMAN.122.71.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_LAB_CENTRAL.122.44.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_LAB_ETA.122.47.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_LINHFIB_OP.122.111.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_MAQ_SECAGEM_PAINEL.122.36.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_LOG_OUT_DELIM.122.83.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_MAQFOLIO.122.38.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_MAQFOLIO_CORT.122.85.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_MAQPAP_BOBINA.122.77.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_MAQPAP.122.41.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_MAQPAP_EMBAL.122.74.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_MAQPAP_LAB.122.108.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_MAQPAP_MEAN.122.82.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_MAQPAP_PCP.122.76.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_MAQPAP_SDCD.122.16.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_MAQSEC_L1.122.91.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_MAQSEC_L2.122.31.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_OFC_Gruas.122.80.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_PATCAM_CARRETAS.122.67.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_PATMAD_L1.122.50.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_POOLTRANS.122.23.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_PLQUIM.122.58.suzano.com.br
+2025-05-08 16:42:24,124 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_PATMAD_L2.122.35.suzano.com.br
+2025-05-08 16:42:24,140 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_POR5.122.52.suzano.com.br
+2025-05-08 16:42:24,140 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_PORT3.122.25.suzano.com.br
+2025-05-08 16:42:24,140 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_POR1.122.51.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_POST_EXCELBR.122.99.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_POR4.122.28.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_REF.122.73.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_SALASEC2.122.32.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_SDCD_3A.122.22.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_SDCD3A.122.247.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_SDCD_4A.122.45.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_SEG.122.72.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_SDCD_Tissue.122.150.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_SLBUCK.122.79.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_SDCD_5A.122.17.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_SDCD_Conv.122.248.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_SLTURB.122.46.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWA_TISSUE.122.250.suzano.com.br
+2025-05-08 16:42:24,141 - INFO - Mesclado valores e ports para IP 172.16.122.3
+2025-05-08 16:42:24,141 - INFO - Mesclado valores e ports para IP 172.16.122.4
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWC_virtual
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWD_GEMAM_2A.122.59.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWD_CORT.122.84.suzano.com.br
+2025-05-08 16:42:24,141 - INFO - Mesclado valores e ports para IP 172.16.122.81
+2025-05-08 16:42:24,141 - INFO - Mesclado valores e ports para IP 172.16.122.20
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWD_IND.126.34.suzano.com.br
+2025-05-08 16:42:24,141 - INFO - Mesclado valores e ports para IP 172.16.122.55
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWD_MAQSEC_L2MC2.122.33.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWD_PCP.122.75.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-POR-CAR-SWC_ADM.20.2.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-FAB-MUC-SWD_SLMNT.122.30.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-CE-CDL-FOR-SWC.189.66.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-VIV-ITA-SWA_ADM.19.4.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-VIV-ITA-SWA_LAB_MUDAS.19.5.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-VIV-ITA-SWC_CPD.19.1.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-BA-VIV-ITA-SWA_LAB_PES.19.3.suzano.com.br
+2025-05-08 16:42:24,141 - INFO - Mesclado valores e ports para IP 172.16.35.4
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-CE-FAB-MARC-SWC_DC.36.2.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-DF-CDL-BRA-SWC_CORE.189.34.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-CE-CDL-MAR-SWC.35.2.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-DF-ESC-BRA-SWA_SLTECNICA.253.98.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-CDR-SER-SWA.151.23.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-CDR-SER-SWA_VENDAS.151.19.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-CDR-SER-SWC_SALA_COMERCIAL.151.17.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-CDL-CCA-SWC.30.130.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-CDR-SER-SWA_GALPAO_PROD.151.20.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-ESC-COB-SWC_CPD.13.1.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-DEP-ARG-SWC.20.146.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_082.16.86.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_ABA.16.73.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-ESC-COB-SWA_COMBUS.13.4.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_ALX.16.12.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_AREA_LAZER.16.13.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_ADMCTR_JMADM.16.75.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_BAL.16.74.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_BOMB_SUSTEN.16.11.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_CAL.16.27.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_CAL.16.26.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_CAL.16.25.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_CAL.16.32.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_CAL.16.31.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_CAL.16.38.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_CAL.16.39.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_CAL.16.40.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_CAL.16.37.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_CAL.16.48.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_CAL.16.97.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_CALD.16.34.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_CAU.16.47.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_CCM_CRA.16.92.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_CCMM.16.67.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_CCMM.16.69.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_CCMM.16.72.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_CEL8.16.81.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_CPD2.16.6.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_CEL9.16.83.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_DIGA.16.45.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_DEPNEX.16.84.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_DIGA.16.46.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_CTE.16.65.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_CTE.16.66.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_DIGB.16.42.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_DIGCAU.16.93.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_DIGB.16.50.suzano.com.br
+2025-05-08 16:42:24,141 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_DIGB.16.43.suzano.com.br
+2025-05-08 16:42:24,157 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_DIGES.16.56.suzano.com.br
+2025-05-08 16:42:24,157 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_DOC.191.232.suzano.com.br
+2025-05-08 16:42:24,157 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_DIGSE22.16.51.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_DIGSE322.16.53.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_EFL.16.62.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_ENG.16.18.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_ENG.16.20.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_ENG.155.232.suzano.com.br
+2025-05-08 16:42:24,158 - INFO - Mesclado valores e ports para IP 172.16.132.12
+2025-05-08 16:42:24,158 - INFO - Mesclado valores e ports para IP 172.16.132.15
+2025-05-08 16:42:24,158 - INFO - Mesclado valores e ports para IP 172.16.132.13
+2025-05-08 16:42:24,158 - INFO - Mesclado valores e ports para IP 10.22.16.99
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_LOG.16.61.suzano.com.br
+2025-05-08 16:42:24,158 - INFO - Mesclado valores e ports para IP 10.22.16.77
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_LUB.16.85.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_MAQSEC.16.57.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_NANO.16.54.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_MAQSEC.16.58.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_OFC-FL.16.82.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_NOR_E.16.70.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_NOR_S.16.71.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_OFC_FL.16.94.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_PAT.16.29.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_OFCSEC.16.60.suzano.com.br
+2025-05-08 16:42:24,158 - INFO - Mesclado valores e ports para IP 10.22.16.98
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_OFF.16.95.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_PAT.16.96.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_PAT.16.33.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_PAT.16.35.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_PAT04.16.41.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_PATMAD.16.36.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_POR_L.16.63.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_POR_P.16.24.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_PATOFC.16.30.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_POR_S.16.80.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_PR_TR.16.14.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_RES_I.16.9.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_PR_TR.16.15.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_PR_TR.16.16.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_PR_TR.16.17.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_SUP.16.7.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWC_CPD1.16.1.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWC_virtual
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_SUP.16.10.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_TEL.16.22.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWA_SW25.16.55.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWD_CALD.16.28.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWD_CCMM.16.68.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWD_CPD1.16.5.suzano.com.br
+2025-05-08 16:42:24,158 - INFO - Mesclado valores e ports para IP 10.22.16.3
+2025-05-08 16:42:24,158 - INFO - Mesclado valores e ports para IP 10.22.16.2
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWD_SUP.16.8.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWD_DIGB.16.44.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWD_MAQSEC.16.59.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-ARA-SWD_DOC.16.78.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-CAI-SWA_APO_CAMI.225.16.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-CAI-SWA_AXO_MANU.225.15.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-CAI-SWA_BOBI.225.7.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-CAI-SWA_CONV_RAC1.225.10.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-CAI-SWA_CONV_RAC2.225.11.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-CAI-SWA_DC_TI.225.3.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-CAI-SWA_DCTA.225.17.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-CAI-SWA_ELET_ADMI.225.6.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-CAI-SWA_EXPE_RAC3.225.14.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-CAI-SWA_EXPE_RAC1.225.12.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-CAI-SWA_EXPE_RAC2.225.13.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-CAI-SWA_INSU.225.9.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-CAI-SWA_PORT.225.8.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-CAI-SWA_REFE.225.4.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-CAI-SWA_SHOW_ROOM.225.5.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-FAB-CAI-SWC.225.2.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-POR-CEL-SWA_ADM.43.5.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-POR-CEL-SWA_AMZ1.44.6.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-POR-CEL-SWA_AMZ1.44.10.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-POR-CEL-SWA_AMZ2.44.8.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-POR-CEL-SWA_BARC.44.9.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-POR-CEL-SWA_POR.46.6.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-POR-CEL-SWA_NOPE.44.200.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-POR-CEL-SWC_ADM.41.4.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-POR-CEL-SWA_VIV.43.7.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-POR-CEL-SWA_CPDANT.44.7.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-CM-USI-SWC_CPD.21.2.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-ES-POR-CEL-SWD_ADM.41.5.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-ESC-SAN-SWC.72.162.suzano.com.br
+2025-05-08 16:42:24,158 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-GO-CDL-GOI-SWC_RACK_TI.188.98.suzano.com.br
+2025-05-08 16:42:24,173 - INFO - Mesclado valores e ports para IP 172.16.124.26
+2025-05-08 16:42:24,173 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-ESC-SLU-SWC.76.130.suzano.com.br
+2025-05-08 16:42:24,173 - INFO - Mesclado valores e ports para IP 172.16.124.61
+2025-05-08 16:42:24,174 - INFO - Mesclado valores e ports para IP 172.16.124.59
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.60
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.16
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-FAB-IMP-SWA_BACKUP01.124.188.suzano.com.br
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.135
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.28
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.134
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.6
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.22
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.133
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.41
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.55
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.13
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.132
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.18
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.21
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.57
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.66
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.62
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.38
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.40
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.56
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.137
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.32
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.23
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.33
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.19
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.10
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.8
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.35
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.54
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.43
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.9
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.58
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.20
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.122
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.140
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.31
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.141
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.154
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.136
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.155
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.14
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.4
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.3
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-FAB-IMP-SWC_virtual
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.253
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.191
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.27
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.124.30
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-FAZ-CID-SWA_BOA_FE.90.3.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-FAZ-MON-SWA_CPD.78.7.suzano.com.br
+2025-05-08 16:42:24,175 - INFO - Mesclado valores e ports para IP 172.16.78.6
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-FAZ-CID-SWC_BOA_FE.90.2.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-FAZ-MON-SWC_CPD.78.5.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-POR-ITA-SWA_ARM03.81.5.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-POR-FRA-SWC.42.2.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-POR-ITA-SWA_ARM05.81.7.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-POR-ITA-SWA_ARM04.81.6.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-FAZ-ROD-SWC_CPD.72.194.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-POR-ITA-SWA_ARM07.81.9.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-POR-ITA-SWA_ARM06.81.8.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-POR-ITA-SWA_ARM08.81.10.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-POR-ITA-SWA_ARM09.81.11.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-POR-ITA-SWA_ARM10.81.12.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-POR-ITA-SWA_PORT02.81.4.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-POR-ITA-SWA_CPD.81.3.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-POR-ITA-SWA_TRILHO12.81.14.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-POR-ITA-SWA_BERCO14.81.17.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-POR-ITA-SWA_CPDII11.81.13.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-POR-ITA-SWA_TRILHO13.81.15.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-POR-ITA-SWA_TRILHO14.81.16.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MG-CDL-BHO-SWC_RACK_TI.60.1.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MG-CDL-UBE-SWC_CORE.189.130.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MA-POR-ITA-SWC_CPD.81.2.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MG-ESC-SLA-SWA_CONTEINER.46.3.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MG-ESC-SLA-SWA_ALMX.46.2.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MG-USI-MUC-SWA_ESCADM.248.133.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MG-ESC-SLA-SWC_ADM.46.1.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MG-USI-MUC-SWA_PORTARIA.248.131.suzano.com.br
+2025-05-08 16:42:24,175 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-CDL-CGR-SWC_CORE.189.162.suzano.com.br
+2025-05-08 16:42:24,190 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MG-USI-MUC-SWC_SALAOPERACAO.248.130.suzano.com.br
+2025-05-08 16:42:24,190 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-ESC-AGC-SWC_CPD.30.82.suzano.com.br
+2025-05-08 16:42:24,190 - INFO - Mesclado valores e ports para IP 172.16.62.159
+2025-05-08 16:42:24,191 - INFO - Mesclado valores e ports para IP 172.16.14.26
+2025-05-08 16:42:24,191 - INFO - Mesclado valores e ports para IP 172.16.62.169
+2025-05-08 16:42:24,191 - INFO - Mesclado valores e ports para IP 172.16.62.168
+2025-05-08 16:42:24,191 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_ACISULF.0.15.suzano.com.br
+2025-05-08 16:42:24,191 - INFO - Mesclado valores e ports para IP 172.16.62.181
+2025-05-08 16:42:24,192 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_ADM.1.191.suzano.com.br
+2025-05-08 16:42:24,192 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_ADMFLO.0.52.suzano.com.br
+2025-05-08 16:42:24,192 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_ALMOX.0.30.suzano.com.br
+2025-05-08 16:42:24,192 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_ALMOXFLO.0.58.suzano.com.br
+2025-05-08 16:42:24,192 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_ALMOX.1.132.suzano.com.br
+2025-05-08 16:42:24,193 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_ALMOX.1.133.suzano.com.br
+2025-05-08 16:42:24,193 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_ALMOXHERB.1.134.suzano.com.br
+2025-05-08 16:42:24,193 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_APCAM2.0.33.suzano.com.br
+2025-05-08 16:42:24,193 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_CALD-REC.0.60.suzano.com.br
+2025-05-08 16:42:24,193 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_BRI.1.197.suzano.com.br
+2025-05-08 16:42:24,193 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_ALMQUIM.0.28.suzano.com.br
+2025-05-08 16:42:24,194 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_CALD-REC.0.63.suzano.com.br
+2025-05-08 16:42:24,194 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_CALD-REC.0.61.suzano.com.br
+2025-05-08 16:42:24,194 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_CALDREC.0.11.suzano.com.br
+2025-05-08 16:42:24,194 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_CAPT.0.19.suzano.com.br
+2025-05-08 16:42:24,194 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_CAM.1.193.suzano.com.br
+2025-05-08 16:42:24,195 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_CENT.1.196.suzano.com.br
+2025-05-08 16:42:24,195 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_CENSOC1.0.38.suzano.com.br
+2025-05-08 16:42:24,195 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_CENSOC2.0.37.suzano.com.br
+2025-05-08 16:42:24,195 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_EMISS.0.20.suzano.com.br
+2025-05-08 16:42:24,195 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_ENF1.0.43.suzano.com.br
+2025-05-08 16:42:24,196 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_ENF2.0.42.suzano.com.br
+2025-05-08 16:42:24,196 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_ENLON.0.31.suzano.com.br
+2025-05-08 16:42:24,196 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_ENF2.0.62.suzano.com.br
+2025-05-08 16:42:24,196 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_ETE.0.13.suzano.com.br
+2025-05-08 16:42:24,196 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_ETA.0.12.suzano.com.br
+2025-05-08 16:42:24,196 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_ETEMAN.0.14.suzano.com.br
+2025-05-08 16:42:24,197 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_EXPCEL1.0.45.suzano.com.br
+2025-05-08 16:42:24,197 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_EXPCEL2.0.46.suzano.com.br
+2025-05-08 16:42:24,197 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_EXPCEL4.0.48.suzano.com.br
+2025-05-08 16:42:24,197 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_EXPCEL3.0.47.suzano.com.br
+2025-05-08 16:42:24,197 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_LINFIB.0.26.suzano.com.br
+2025-05-08 16:42:24,198 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_FORCAL.0.17.suzano.com.br
+2025-05-08 16:42:24,198 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_LAB.0.40.suzano.com.br
+2025-05-08 16:42:24,198 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_OFGRUAS.0.21.suzano.com.br
+2025-05-08 16:42:24,198 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_MANUETA.1.135.suzano.com.br
+2025-05-08 16:42:24,198 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_OFICHEX.0.54.suzano.com.br
+2025-05-08 16:42:24,198 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_OFICEMP.0.51.suzano.com.br
+2025-05-08 16:42:24,199 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_OFICMAQ.0.55.suzano.com.br
+2025-05-08 16:42:24,199 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_OFPROV.0.22.suzano.com.br
+2025-05-08 16:42:24,199 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_OFMANUT.0.29.suzano.com.br
+2025-05-08 16:42:24,199 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_PJM.0.41.suzano.com.br
+2025-05-08 16:42:24,199 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_PATMAD.0.23.suzano.com.br
+2025-05-08 16:42:24,200 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_PORT.1.194.suzano.com.br
+2025-05-08 16:42:24,200 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_PORTCEL.0.35.suzano.com.br
+2025-05-08 16:42:24,200 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_PORGUA1.0.57.suzano.com.br
+2025-05-08 16:42:24,200 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_PORTMAD.0.24.suzano.com.br
+2025-05-08 16:42:24,200 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_PORTFLO.0.56.suzano.com.br
+2025-05-08 16:42:24,201 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_PORTPRI.0.34.suzano.com.br
+2025-05-08 16:42:24,201 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_POSTCEL.0.32.suzano.com.br
+2025-05-08 16:42:24,201 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_POSTFLO.0.53.suzano.com.br
+2025-05-08 16:42:24,201 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_REF.1.195.suzano.com.br
+2025-05-08 16:42:24,201 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_SDCD.0.39.suzano.com.br
+2025-05-08 16:42:24,201 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_SAPET.0.64.suzano.com.br
+2025-05-08 16:42:24,202 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_REF.0.36.suzano.com.br
+2025-05-08 16:42:24,202 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_SESEC1.0.49.suzano.com.br
+2025-05-08 16:42:24,202 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_TOR.1.198.suzano.com.br
+2025-05-08 16:42:24,202 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_SUBPRI.0.44.suzano.com.br
+2025-05-08 16:42:24,202 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_SESEC2.0.50.suzano.com.br
+2025-05-08 16:42:24,202 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWC.1.190.suzano.com.br
+2025-05-08 16:42:24,203 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWA_TURBGER.0.25.suzano.com.br
+2025-05-08 16:42:24,203 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWD_ADMFLO.0.9.suzano.com.br
+2025-05-08 16:42:24,203 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWC_DC.0.2.suzano.com.br
+2025-05-08 16:42:24,203 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWD_CALREC.0.8.suzano.com.br
+2025-05-08 16:42:24,203 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWD_DC.1.141.suzano.com.br
+2025-05-08 16:42:24,204 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWD_DC.0.3.suzano.com.br
+2025-05-08 16:42:24,204 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWD_PATMAD.0.7.suzano.com.br
+2025-05-08 16:42:24,204 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWD_ENF02.0.6.suzano.com.br
+2025-05-08 16:42:24,204 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-RRP-SWD_SDCD.0.5.suzano.com.br
+2025-05-08 16:42:24,204 - INFO - Mesclado valores e ports para IP 172.22.0.3
+2025-05-08 16:42:24,204 - INFO - Mesclado valores e ports para IP 172.22.0.2
+2025-05-08 16:42:24,205 - INFO - Mesclado valores e ports para IP 172.22.0.4
+2025-05-08 16:42:24,205 - INFO - Mesclado valores e ports para IP 172.22.0.6
+2025-05-08 16:42:24,205 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_ADM2.62.186.suzano.com.br
+2025-05-08 16:42:24,205 - INFO - Mesclado valores e ports para IP 172.22.0.5
+2025-05-08 16:42:24,205 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_ADM_R1.62.185.suzano.com.br
+2025-05-08 16:42:24,206 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_AMB.62.167.suzano.com.br
+2025-05-08 16:42:24,206 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_AMX.3.233.suzano.com.br
+2025-05-08 16:42:24,206 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_AMX.3.232.suzano.com.br
+2025-05-08 16:42:24,206 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_AMX1.3.235.suzano.com.br
+2025-05-08 16:42:24,206 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_AMX1.3.231.suzano.com.br
+2025-05-08 16:42:24,207 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_AMX_ADM.3.251.suzano.com.br
+2025-05-08 16:42:24,207 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_AMX2.3.234
+2025-05-08 16:42:24,207 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_AMX_ADM.3.252.suzano.com.br
+2025-05-08 16:42:24,207 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_AMX_EXP_CEL.62.157
+2025-05-08 16:42:24,208 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_AMZ_CEL_ACS_R1.14.74.suzano.com.br
+2025-05-08 16:42:24,208 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_BRTLGCHAC004.3.226.suzano.com.br
+2025-05-08 16:42:24,208 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_AMZ_CEL_ACS_R2.14.183.suzano.com.br
+2025-05-08 16:42:24,208 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_CAL.62.147.suzano.com.br
+2025-05-08 16:42:24,208 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_CAL.14.50.suzano.com.br
+2025-05-08 16:42:24,209 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_BALANC_LOGTRACK.38.254
+2025-05-08 16:42:24,209 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_CANTEIRO_AMBULA.128.30.suzano.com.br
+2025-05-08 16:42:24,209 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_CENTRO_PESQUISA.128.38.suzano.com.br
+2025-05-08 16:42:24,209 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_EFLUENTES2.12.129.suzano.com.br
+2025-05-08 16:42:24,209 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_CAPTACAO.62.137.suzano.com.br
+2025-05-08 16:42:24,210 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_EKA.62.240.suzano.com.br
+2025-05-08 16:42:24,210 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_ETA_IND_R1_SW2.9.226.suzano.com.br
+2025-05-08 16:42:24,210 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_ENF3.62.170.suzano.com.br
+2025-05-08 16:42:24,210 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_ENF1.14.54.suzano.com.br
+2025-05-08 16:42:24,210 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_FCAL.62.192.suzano.com.br
+2025-05-08 16:42:24,210 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_ETE.62.139.suzano.com.br
+2025-05-08 16:42:24,211 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_H1_CAU.62.133.suzano.com.br
+2025-05-08 16:42:24,211 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_H2_ADM3.144.2.suzano.com.br
+2025-05-08 16:42:24,211 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_FM_POR_ACS1.14.22.suzano.com.br
+2025-05-08 16:42:24,211 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_H2_POR.144.9.suzano.com.br
+2025-05-08 16:42:24,211 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_H2_CSOCIAL.128.26.suzano.com.br
+2025-05-08 16:42:24,212 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_H2_SEG_TRAB.144.5.suzano.com.br
+2025-05-08 16:42:24,212 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_H2_TORRE.144.12.suzano.com.br
+2025-05-08 16:42:24,212 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_H2_REFEITORIO.128.22.suzano.com.br
+2025-05-08 16:42:24,212 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_HEXATREM.63.178.suzano.com.br
+2025-05-08 16:42:24,212 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_IND.3.227.suzano.com.br
+2025-05-08 16:42:24,212 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_LAB2.17.226.suzano.com.br
+2025-05-08 16:42:24,213 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_LAB1.62.144.suzano.com.br
+2025-05-08 16:42:24,213 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_OFC_GRUA.62.132.suzano.com.br
+2025-05-08 16:42:24,213 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_PAT_MAD_H1_R1.62.164.suzano.com.br
+2025-05-08 16:42:24,213 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_OFC_EMPILHAD.28.120.suzano.com.br
+2025-05-08 16:42:24,214 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_PAT_MAD_H2.14.38.suzano.com.br
+2025-05-08 16:42:24,214 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_POR2.62.187.suzano.com.br
+2025-05-08 16:42:24,214 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_POR4.62.162.suzano.com.br
+2025-05-08 16:42:24,214 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_POR6.51.129.suzano.com.br
+2025-05-08 16:42:24,214 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_POR7.62.171.suzano.com.br
+2025-05-08 16:42:24,214 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_REFEITORIO.62.195.suzano.com.br
+2025-05-08 16:42:24,215 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_POSTO_COMBUSTIVEL.62.165.suzano.com.br
+2025-05-08 16:42:24,215 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_POR_BALANCA.63.33.suzano.com.br
+2025-05-08 16:42:24,215 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_POR_PRINCIPAL.62.158.suzano.com.br
+2025-05-08 16:42:24,215 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_SEC_SL_CTRL.62.156.suzano.com.br
+2025-05-08 16:42:24,215 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_SL_SEC2.21.1.suzano.com.br
+2025-05-08 16:42:24,216 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_SL_ELET_SEC1_R2.62.154.suzano.com.br
+2025-05-08 16:42:24,216 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_SL_SEC3.14.62.suzano.com.br
+2025-05-08 16:42:24,216 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_SLE.14.46.suzano.com.br
+2025-05-08 16:42:24,216 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_SEC_SL_LOG.62.155
+2025-05-08 16:42:24,216 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_SLE_ETA_R1.62.136.suzano.com.br
+2025-05-08 16:42:24,216 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_SLE.62.145.suzano.com.br
+2025-05-08 16:42:24,217 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_SLE2.14.34.suzano.com.br
+2025-05-08 16:42:24,217 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_SLE_TURB_GER2.14.30.suzano.com.br
+2025-05-08 16:42:24,217 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_SLE_TURB_GER.62.146.suzano.com.br
+2025-05-08 16:42:24,217 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWC_ADM.62.134.suzano.com.br
+2025-05-08 16:42:24,217 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWD_ADM.62.190.suzano.com.br
+2025-05-08 16:42:24,217 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWD_BRTLGCHCTORRE.62.152.suzano.com.br
+2025-05-08 16:42:24,218 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWA_SUB_EST.62.200.suzano.com.br
+2025-05-08 16:42:24,218 - INFO - Mesclado valores e ports para IP 172.16.137.2
+2025-05-08 16:42:24,218 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MS-FAB-TSL-SWD_SEC.62.153.suzano.com.br
+2025-05-08 16:42:24,218 - INFO - Mesclado valores e ports para IP 172.16.137.5
+2025-05-08 16:42:24,218 - INFO - Mesclado valores e ports para IP 172.16.137.3
+2025-05-08 16:42:24,219 - INFO - Mesclado valores e ports para IP 172.16.137.4
+2025-05-08 16:42:24,219 - INFO - Mesclado valores e ports para IP 172.16.137.1
+2025-05-08 16:42:24,219 - INFO - Mesclado valores e ports para IP 172.16.166.3
+2025-05-08 16:42:24,219 - INFO - Mesclado valores e ports para IP 172.16.166.2
+2025-05-08 16:42:24,219 - INFO - Mesclado valores e ports para IP 172.16.166.9
+2025-05-08 16:42:24,220 - INFO - Mesclado valores e ports para IP 172.16.166.4
+2025-05-08 16:42:24,220 - INFO - Mesclado valores e ports para IP 172.16.166.5
+2025-05-08 16:42:24,220 - INFO - Mesclado valores e ports para IP 172.16.166.6
+2025-05-08 16:42:24,220 - INFO - Mesclado valores e ports para IP 172.16.166.7
+2025-05-08 16:42:24,220 - INFO - Mesclado valores e ports para IP 172.16.166.10
+2025-05-08 16:42:24,220 - INFO - Mesclado valores e ports para IP 172.16.166.8
+2025-05-08 16:42:24,221 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-MT-CDL-CUI-SWC_RACK_TI.188.2.suzano.com.br
+2025-05-08 16:42:24,221 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PA-CDL-BEL-SWC_RACK_TI.188.35.suzano.com.br
+2025-05-08 16:42:24,221 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PA-FAB-BEL-SWA_CFTV.58.43.suzano.com.br
+2025-05-08 16:42:24,221 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PA-FAB-BEL-SWA_ADM.58.52.suzano.com.br
+2025-05-08 16:42:24,221 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PA-FAB-BEL-SWA_COMPRAS.58.49.suzano.com.br
+2025-05-08 16:42:24,222 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PA-FAB-BEL-SWA_CONVERSAO.58.42.suzano.com.br
+2025-05-08 16:42:24,222 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PA-FAB-BEL-SWA_ENT_FAB.58.35.suzano.com.br
+2025-05-08 16:42:24,222 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PA-FAB-BEL-SWA_CONV_ELET.58.39.suzano.com.br
+2025-05-08 16:42:24,222 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PA-FAB-BEL-SWA_DC.58.37.suzano.com.br
+2025-05-08 16:42:24,222 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PA-FAB-BEL-SWA_ETA.58.47.suzano.com.br.suzano.com.br
+2025-05-08 16:42:24,222 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PA-FAB-BEL-SWA_EXPED.58.36.suzano.com.br
+2025-05-08 16:42:24,223 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PA-FAB-BEL-SWA_INC_LODO.58.46.suzano.com.br
+2025-05-08 16:42:24,223 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PA-FAB-BEL-SWA_LOG.58.53.suzano.com.br
+2025-05-08 16:42:24,223 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PA-FAB-BEL-SWA_EXPED_CONT.58.55.suzano.com.br
+2025-05-08 16:42:24,223 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PA-FAB-BEL-SWA_JEM.58.48.suzano.com.br
+2025-05-08 16:42:24,224 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PA-FAB-BEL-SWA_PROD.58.51.suzano.com.br
+2025-05-08 16:42:24,224 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PA-FAB-BEL-SWA_UMG.58.54.suzano.com.br
+2025-05-08 16:42:24,224 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PA-FAB-BEL-SWD_DC.58.38.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PA-FAB-BEL-SWC.58.34.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PA-VIV-ELI-SWC_SALA_TI.44.2.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PR-CDR-CUR-SWA_GALPAO7.180.19.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PE-CDL-JAB-SWC_CORE.63.1.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PR-CDL-LON-SWC_COMERCIAL.189.2.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PR-CDR-CUR-SWC_SL_TEC_ALMX.180.2.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-PR-CDR-CUR-SWA_LOGISTICA.180.18.suzano.com.br
+2025-05-08 16:42:24,225 - INFO - Mesclado valores e ports para IP 172.16.189.198
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-RJ-CDL-RIO-SWC_RACK_TI.57.2.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-RS-CDL-POA-SWC_SALA_TI.189.194.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SC-CDL-CHAP-SWC.86.98.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-CDL-ARJ-SWA.188.2.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-CDL-CAM-SWA_BALANCA.123.36.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-CDL-CAM-SWA_CONVIV_RACK1.123.40.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-CDL-CAM-SWA_CONVIV_RACK1.123.3.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-CDL-CAM-SWA_CONVIV_RACK3.123.46
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-CDL-CAM-SWA_CONVIV_RACK1.123.41.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-CDL-CAM-SWA_CONVIV_RACK5.123.43.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-CDL-CAM-SWA_RACK4_TI.123.44.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-CDL-CAM-SWA_CPD.123.34.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-CDL-CAM-SWA_POR.123.42.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-CDL-CAM-SWA_CONVIV_RACK6.123.45.suzano.com.br
+2025-05-08 16:42:24,225 - INFO - Mesclado valores e ports para IP 172.16.164.2
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-CDL-RPR-SWC_CORE.188.66.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-CDR-IMI-SWA_CPD.229.7.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-CDR-IMI-SWA_CPD.229.4.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-CDL-CAM-SWC_RACK_TI.123.33.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-CDR-IMI-SWC_CPD.229.6.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-CDR-SUZ-SWA_CPD.152.2.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-CDR-IMI-SWA_TRANSPORTADORA.229.5.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-CDR-SUZ-SWA_CPD.152.3.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-CDR-SUZ-SWC_CPD.152.1.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-ESC-CEN-SWA_10A.120.30.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-ESC-CEN-SWA_8A.120.31.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-ESC-CEN-SWA_7A.120.17.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-ESC-CEN-SWA_9A.120.40.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-ESC-CEN-SWA_6A.120.50.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-ESC-CEN-SWA_21A.120.26.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-ESC-CEN-SWA_DMZ_6A.120.5.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-ESC-CEN-SWC_CORE_6A.120.49.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-ESC-CEN-SWA_SUBSOLO.120.34.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-ESC-CEN-SWC_CORE_6A.120.48.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-ESC-ITP-SWA_UNF.16.251.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-ESC-ITP-SWA_CV.16.250.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-ESC-CEN-SWC_virtual
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-ESC-ITP-SWA_GAL.16.252.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-ESC-ITP-SWA.16.253.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-ESC-PNE-SWC.119.2.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-ESC-ITP-SWC.16.254.suzano.com.br
+2025-05-08 16:42:24,225 - INFO - Mesclado valores e ports para IP 172.25.240.2
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_ADM_GERENCIA_P3.194.88.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-ESC-ITT-SWC.33.1.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_ADM_P2.194.254.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_ADM_SL_TEC_P1.194.17.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_ADM_SL_TEC_P3.194.11.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_ADM_SL_ARQ_TEC.194.56.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_ADM_SL_TEC_P2.194.51.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_ANT_SDCD_PD_CAL.194.25.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_ALX_AMZ.194.19.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_ALX_INSUMOS.194.85.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_ALX_GALPAO_OLEO.194.86.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_AMB.194.15.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_AUT_SDCD_JE2_P1.194.52.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_CENTRO_TEC.194.28.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_COI_PATMAD.194.70.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_CPD_ADM_P1.194.37.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_CTREIN_SL_PABX.194.32.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_CTRL_PATMAD.194.54.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_DESENV_PATMAD.194.72.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_DMZ_INTERNET.194.34.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_ETE.194.53.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_GR_SAPET_PATMAD.194.47.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_LAB_CENT_ADM_P0.194.16.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_LARANJ_ENG_OBRA.194.36.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_LAB_JE2_ENFD_P0.194.24.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_LINHA_A_ENFD.194.101.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_LINHA_B_ENFD.194.102.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_LINHA_C_ENFD.194.103.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_LOG.194.105.suzano.com.br
+2025-05-08 16:42:24,225 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_MAN_ELET_JE2_P0.194.67.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_LINHA_D_ENFD.194.104.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_LOG_JCL.194.58.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_NEA.194.30.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_OFC_CTRAL.194.23.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_MOD3_PATMAD.194.71.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_MAN_ELET_JE2_P2.194.66.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_NEW_SDCD_ADM_P1.194.59.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_OFC_PATMAD.194.49.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_PAT_CAMINHOES.194.74.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_POR4_GUARITA.194.61.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_OFIC_PISO0.194.121.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_POR2_ENT_PRINC.194.10.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_POR4_RECEB_FISC.194.35.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_POR_ETE.194.65.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_POR_ENG_CORP_CT.194.42.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_POR6.194.55.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_REFEITO_AZULZIN.194.31.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_SL_ADM_PCAMINHO.194.26.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_SL_AUTOM_JE3_P1.194.60.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_SL_CFTV_ENG.194.73.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_SL_CONTREX.194.22.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_SEG_TRAB_E_BOMB.194.14.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_SL_OP_LFIB_C.194.57.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_SL_OP_LFIB_B.194.46.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_SL_SEG_PATCAM.194.64.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_SL_ELET_JE2_ENF.194.33.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_SL_MAN_JE2_P0.194.45.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_SL_TEC_CAL_P2.194.20.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_SL_TEC_ENG_CORP.194.6.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_SL_TEC_ENG_CORP.194.7.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_SL_TEC_PATMAD.194.41.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_SL_TEC_MUNKJO.194.29.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWA_VIV_CENT_TEC_CT.194.50.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWC_CPD_ADM_P1.194.1.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWD_SL_ELET_ENG_CORP.194.8.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWD_SL_ELET_JE2_ENF.194.27.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_ACAB_CORT.0.69.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWD_SL_ELET_JE2_ENF.194.100.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-JAC-SWD_SL_TEC_CAL_P2.194.40.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_ACAB_EMB_GRM_P2.0.76.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_ACAB_EMB_FSW_P2.0.124.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_ACAB_ENF_CUT_SIZE.0.116.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_ACAB_P2_CORT5.0.202.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_ACAB_SL_FAC.0.81.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_ACAB_SL_ARQ_2.0.103.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_ACAB_EMB_VOITH.0.77.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_ADM_SDCD.0.132.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_ADC.0.126.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_ADM_ATRAS_RECEPCAO.0.82.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_AMB.0.58.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_ALX.0.54.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_CCM_CAL_UTI-REC.0.107.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_CCM_AAB_VALMET.0.115.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_BAL_POR3.0.90.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_CCM_COZ_COATE_P2.0.73.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_CCM_LAGOA_TRATAMEN.0.125.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_CFTV_ADM_JM_P1.0.122.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_CCM_PLT_QUIM.0.101.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_CHF_SEC_CEL.0.63.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_CORT_JAGUAR_P3.0.61.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_CTM.0.79.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_DATA.0.49.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_CTRL_PCAL.0.100.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_DESAGUADORA_CEL.0.75.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_ESTQ_LIGN.0.52.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_EX-SEC_CEL.0.72.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_EXP_LOG_DCA1.0.110.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_EXP_PAP_SL_JSL.0.70.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_EXP_PAP_DCA3.0.106.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_FIELDS.0.97.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_EXP_PAP_ULT_DCA.0.71.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_LAB_PDI.0.105.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_GOCIL_SL_MAT_LMP.0.57.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_HOUSEKEEPING.0.60.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_JM_MEZANINO.0.109.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_LAB_CENTRAL.0.104.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_LAB_PDI.0.130.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_LONIL_EX-SEC_CEL.0.127.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_LNHA_EMBL_SEC_CEL.0.84.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_MAQPAP_LAB_FIS_P2.0.86.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_LONIL_POR3.0.92.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_MAQPAP_PCP_P2.0.87.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_MAQPAP_SDCD_SECA.0.89.suzano.com.br
+2025-05-08 16:42:24,241 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_OFC_CENTRAL.0.59.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_MAQPAP_SDCD_UMID.0.88.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_MEC_COATER2_P2.0.91.suzano.com.br
+2025-05-08 16:42:24,256 - INFO - Mesclado valores e ports para IP 10.129.0.177
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_POR2.0.93.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_OP_REBOB2_P2.0.166.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_PLT_LIGN.0.74.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_OFC_CENTRAL.0.62.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_POR2.0.94.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_REST_CONV.0.56.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_POR3.0.66.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_REBOB_VARIFLEX_P2.0.78.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_SDCD.0.37.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_SL_CTRL_BIOMASSA.0.64.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_SL_CONTAINER_COATER.0.46.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_SL_CTRL_ETE_ETA.0.111.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_SL_CTRL_CALCIF.0.68.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_SL_CTRL_LFIB.0.65.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_SL_CTRL_PCAL_129.0.96.suzano.com.br
+2025-05-08 16:42:24,256 - INFO - Mesclado valores e ports para IP 10.129.0.30
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_SL_CTRL_LIGN.0.53.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_SL_CTRL_PCAL.0.99.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_SL_CTRL_PIC_MAD.0.85.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_SL_CTRL_SEC_CEL.0.83.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_SL_CTRL_TAK.0.123.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_SL_ELET_ETE.0.112.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_SL_CTRL_SUB_EST.0.153.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_SL_CTRL_TINTA.0.95.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_TREIN_ASIA.0.55.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_SL_MAN_UTI-REC.0.98.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_SL_PAIN.0.67.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWA_SL_MAT_PRIMA1.0.48.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWC_DATA.200.29.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA4_ENG.200.204.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA3_LAB_FAB.200.62.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWD_FIBRA_PROVISORIO.0.102.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-LIM-SWD_ACAB_SL_FAC.0.80.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA6_EXPEDICAO.200.206.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA5_REST.200.205.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA8_LINHA7.200.208.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA7_JEM.200.207.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA9_LINHA12.200.209.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA14_TI.200.214.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA12_MAN_FAB.200.212.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA10_QLD_ADM.200.210.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA13_CPD.200.213.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA11_SUPRI.200.211.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA20_CALDEIRA.200.220.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA15_PORTC.200.215.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA19_ETA.200.111.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA18_QLD_ADM.200.218.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA16_PORTP.200.216.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA21_CONVERSAO.200.221.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA24_CCMMP8.200.121.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA25_CCMMP8.200.127.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA22_ADM_FAB.200.222.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA23_LINHA12.200.120.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA26_SUP_FAB.200.128.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA27_CCMMP8.200.129.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA28_SUPRI.200.228.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA30_SUP_FAB.200.130.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA29_JUMBO.200.229.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA32_CA5.200.226.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA33_SUP_FAB.200.131.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA31_CA3.200.225.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA35_AGUARDE.200.248.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA34_CA2.200.244.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA38_MBBR.200.133.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA41_CCM_CONV.200.145.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA36_DEP_FAB.200.246.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA40_CCM_COMV.200.134.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA39_JUMBO.200.249.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA46_CCMMP4.200.156.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA42_MP7.200.152.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA44_SUB1.200.154.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA43_CCMMP8.1.200.153.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA45_PULPER.200.155.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA100_LINHA5.200.95.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA100_MP8_CCM.200.87.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA101_LINHA6.200.96.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA102_LINHA7.200.97.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA103_LINHA8.200.98.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA106_LINHA15.200.101.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA104_LINHA13.200.99.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA105_LINHA14.200.100.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA108_AMICA.200.103.suzano.com.br
+2025-05-08 16:42:24,256 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA107_P732.200.102.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA110_CHYAU1.200.105.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA111_CHYAU2.200.106.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA109_BRETTING.200.104.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA113_BOMBA.200.108.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA112_CHEN.200.107.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA114_TAU.200.109.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA400_EOL_CCM.200.91.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA115_TAU.200.110.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA403_EOL.200.135.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA404_EOL.200.136.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA406_EOL.200.141.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA408_EOL.200.143.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA405_EOL.200.139.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA407_EOL.200.142.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA409_EOL.200.144.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA410_EOL.200.146.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA413_EOL.200.151.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA411_LINHA12.200.147.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA412_LINHA12.200.149.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA600_CONV.200.92.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA612_LINHA5.200.159.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA611_LINHA5.200.158.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA614_LINHA5.200.161.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA610_LINHA5.200.157.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA613_LINHA5.200.160.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA616_LINHA5.200.164.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA615_LINHA5.200.163.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA618_LINHA5.200.166.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA903_MP9.200.173.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA617_LINHA5.200.165.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA904_SUP_MP9.200.176.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA905_SUP_MP9.200.180.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA908_SUP_MP9.200.188.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWA909_PULPER.200.197.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWC1_CPD.200.253.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWC2_CPD.200.251.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWC201_CPD.200.88.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWC_virtual
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWC202_CPD.200.89.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWD300_CPD.200.90.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWD901_CPD.200.93.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-RVE-SWA_ADM.123.196.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-MGC-SWD902_CPD.200.94.suzano.com.br
+2025-05-08 16:42:24,272 - INFO - Mesclado valores e ports para IP 172.16.123.206
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-RVE-SWA_EXP_MC1.123.215.suzano.com.br
+2025-05-08 16:42:24,272 - INFO - Mesclado valores e ports para IP 172.16.123.201
+2025-05-08 16:42:24,272 - INFO - Mesclado valores e ports para IP 172.16.123.207
+2025-05-08 16:42:24,272 - INFO - Mesclado valores e ports para IP 172.16.123.200
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-RVE-SWA_SL_SUPERVISAO.123.214.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-RVE-SWA_SL_ELET_CORT.123.216.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-RVE-SWD_DISTRI_ADM.123.212.suzano.com.br
+2025-05-08 16:42:24,272 - INFO - Mesclado valores e ports para IP 172.16.123.202
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-RVE-SWC_CORE_ADM.123.194.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_CALD_ZANINI_121.109.suzano.com.br
+2025-05-08 16:42:24,272 - INFO - Mesclado valores e ports para IP 172.16.121.37
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_DMZ_CPD2.121.18.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_CPD2_SL_KAPPER.121.86.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_ELET_GOTAVERG.121.145.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_DMZ_CPD2.121.20.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_ESTAC1.121.3.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_ESTAC2.121.4.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_INSERVIVEIS.121.55.suzano.com.br
+2025-05-08 16:42:24,272 - INFO - Mesclado valores e ports para IP 172.16.121.116
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_LONIL_POR1_121.251.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_ETA.121.53.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_POR_ETE.121.33.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_OFI_PATIO_MADEIRA.121.129.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_PK1_PK2_121.91.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_PORTARIA_2.121.130.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_PREDIO_FOLHAS.121.48.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R1_CPD1.121.26.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R1_ACAB_CARTAO.121.151.suzano.com.br
+2025-05-08 16:42:24,272 - INFO - Mesclado valores e ports para IP 172.16.121.25
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R2_ACAB_CARTAO.121.113.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R2_ACAB_CARTAO.121.112.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R2_ACAB_CARTAO.121.114.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R2_ACAB_COUCHE.121.31.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R2_ACAB_COUCHE.121.102.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R2_ACAB_COUCHE.121.105.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R2_ACAB_COUCHE.121.103.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R2_ACAB_COUCHE.121.108.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R2_EMB_SUNDS.121.97.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R2_LINH_WILL.121.43.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R2_LAB_PAP_MB7_MB8.121.96.suzano.com.br
+2025-05-08 16:42:24,272 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R2_ACAB_COUCHE.121.107.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R2_PEDAGIO.121.101.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R2_MAQUINA_B7.121.99.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R2_REBOB_MB8.121.106.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R2_PREMASS_MB7.121.44.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R2_PREMASS_MB8.121.104.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R2_SL_ELET_MB8.121.5.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R2_SL_OP_MB8.121.93.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R2_WILL.121.110.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R2_SL_OPERACAO_MB7.121.38.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R3_ELET11_MB6.121.74.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R3_JM_TERREO.121.153.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R3_JM_TERREO.121.154.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R3_LAB_PTA_MB5.121.76.suzano.com.br
+2025-05-08 16:42:24,287 - INFO - Mesclado valores e ports para IP 172.16.121.160
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R3_MEZANINO_MB6.121.80.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R3_OP_SECA_MB5.121.79.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R3_OP_UMID_MB5.121.115.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R3_OFC_ACAB_CARTA.121.231.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R3_PORA_AUT_MB6.121.81.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R3_PORAO_LUB_MB6.121.85.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R3_PORAO_MB5.121.75.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R3_PORAO_MB6.121.89.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R3_PORAO_MB6.121.87.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R3_SL_ACAB_CARTAO.121.82.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R3_REBOB_MB6.121.88.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R4_LONIL_BOMB.121.136.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R3_SL_OP_MB6.121.84.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R3_SUPERVIS_MB5.121.78.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R4_REMA.121.54.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R4_MEZANINO_REMA.121.41.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R4_SL_BOMB.121.46.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R5_ELET_APARAS.121.69.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R5_MEZ_OFC_GRAL.121.67.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R5_MEZ_OFC_GRAL.121.70.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R4_SL_MOTORES.121.35.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R5_RAUMA.121.34.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R5_SL_OP_FLASH.121.71.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R6_POR1_AMZ_PLTFOR.121.23.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R5_OFC_ALT_TENSAO.121.68.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R5_TURB_GERADOR.121.64.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R6_POR1_ARMAZEM.121.62.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R6_POR2.121.60.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R6_POR1_PAINEIRA.121.117.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R6_POR2.121.57.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R6_SL_FIELD.121.150.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R7_JM_SUPERIOR.121.40.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R7_JM_SUPERIOR.121.157.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R7_JM_SUPERIOR.121.155.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R8_ALX_COMPLEM.121.229.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R6_SL_MOTORIST.121.210.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R8_LAB_CENTRAL.121.132.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R8_LUB_CEL.121.11.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R8_AMZ_INBOUL_POR4.121.24.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R8_BRANQUEAMENTO.121.128.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R8_ETE.121.124.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R8_SL_INBOULD.121.123.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R8_OFICINA_CIVIL.121.126.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R8_OFIC_CENT.121.72.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R8_POR4.121.28.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R8_SL_EEI.121.121.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R8_SL_SOL_PREDI20.121.120.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R9_CPD2.121.232.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R9_CPD2.121.30.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R9_CPD2.121.61.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R8_VESTIAR_PIC.121.127.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R9_GREMIO.121.186.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R9_SL_PABX.121.45.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_R9_PORT3.121.134.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWA_SALA_ELETRICA_MB6.121.122.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWC_CPD2.121.1.suzano.com.br
+2025-05-08 16:42:24,287 - INFO - Mesclado valores e ports para IP 172.16.121.94
+2025-05-08 16:42:24,287 - INFO - Mesclado valores e ports para IP 172.16.121.19
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWD_R2_SL_OP_MB7.121.90.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWD_R2_SL_OP_MB8.121.98.suzano.com.br
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ-SWD_R3_SL_ELET11_MB6.121.73.suzano.com.br
+2025-05-08 16:42:24,287 - INFO - Mesclado valores e ports para IP 172.16.121.21
+2025-05-08 16:42:24,287 - INFO - Mesclado valores e ports para IP 172.16.121.118
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAZ-GLO-SWC.31.3.suzano.com.br
+2025-05-08 16:42:24,287 - INFO - Mesclado valores e ports para IP 172.16.121.65
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAB-SUZ_SWA_PK3_121.100.suzano.com.br
+2025-05-08 16:42:24,287 - INFO - Mesclado valores e ports para IP 10.19.134.197
+2025-05-08 16:42:24,287 - INFO - Mesclado valores e ports para IP 10.19.134.199
+2025-05-08 16:42:24,287 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-FAZ-STA_ELI-SWC.85.1.suzano.com.br
+2025-05-08 16:42:24,287 - INFO - Mesclado valores e ports para IP 10.19.134.201
+2025-05-08 16:42:24,287 - INFO - Mesclado valores e ports para IP 10.19.134.198
+2025-05-08 16:42:24,287 - INFO - Mesclado valores e ports para IP 10.19.134.196
+2025-05-08 16:42:24,303 - INFO - Mesclado valores e ports para IP 10.19.134.195
+2025-05-08 16:42:24,303 - INFO - Mesclado valores e ports para IP 10.19.134.200
+2025-05-08 16:42:24,303 - INFO - Mesclado valores e ports para IP 10.19.134.194
+2025-05-08 16:42:24,303 - INFO - Mesclado valores e ports para IP 10.19.134.203
+2025-05-08 16:42:24,303 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-VIV-ALA-SWA_RACK_TI.95.3.suzano.com.br
+2025-05-08 16:42:24,303 - WARNING - Ignorando entrada com IP inválido: Nome SW DATA CENTER EQUINIX SW_DCSP2_WAN
+2025-05-08 16:42:24,303 - WARNING - Ignorando entrada com IP inválido: Nome SW BR-SP-VIV-ALA-SWC_RACK_TI.95.2.suzano.com.br
+2025-05-08 16:42:24,303 - INFO - Hosts mesclados com sucesso: ['172.16.124.61', '172.16.124.60', '172.16.124.59', '172.16.124.188', '172.16.124.26', '172.16.124.17', '172.16.124.16', '172.16.124.28', '172.16.124.189', '172.16.124.190', '172.16.124.135', '172.16.124.133', '172.16.124.6', '172.16.124.22', '172.16.124.134', '172.16.124.18', '172.16.124.132', '172.16.124.41', '172.16.124.55', '172.16.124.13', '172.16.124.66', '172.16.124.62', '172.16.124.24', '172.16.124.57', '172.16.124.21', '172.16.124.40', '172.16.124.11', '172.16.124.38', '172.16.124.56', '172.16.124.32', '172.16.124.137', '172.16.124.10', '172.16.124.23', '172.16.124.33', '172.16.124.19', '172.16.124.51', '172.16.124.43', '172.16.124.8', '172.16.124.35', '172.16.124.9', '172.16.124.58', '172.16.124.54', '172.16.124.20', '172.16.124.122', '172.16.124.140', '172.16.124.155', '172.16.124.31', '172.16.124.141', '172.16.124.136', '172.16.124.154', '172.16.124.3', '172.16.124.253', '172.16.124.98', '172.16.124.4', '172.16.124.14', '172.16.124.191', '172.16.124.27', '172.16.124.7', '172.16.124.5', '172.16.124.30', '172.16.58.52', '172.16.58.49', '172.16.58.43', '172.16.58.39', '172.16.58.42', '172.16.58.47', '172.16.58.37', '172.16.58.35', '172.16.58.36', '172.16.58.55', '172.16.58.46', '172.16.58.48', '172.16.58.53', '172.16.58.51', '172.16.58.54', '172.16.58.34', '172.16.58.38', '172.16.189.100', '172.16.34.1', '172.16.123.5', '172.16.122.186', '172.16.122.11', '172.16.122.34', '172.16.122.86', '172.16.122.151', '172.16.122.92', '172.16.122.249', '172.16.122.3', '172.16.122.4', '172.16.122.81', '172.16.122.20', '172.16.122.55', '172.16.35.4', '172.16.132.12', '172.16.132.15', '172.16.132.13', '10.22.16.99', '10.22.16.77', '10.22.16.98', '10.22.16.3', '10.22.16.2', '172.16.124.26', '172.16.124.61', '172.16.124.59', '172.16.124.60', '172.16.124.16', '172.16.124.135', '172.16.124.28', '172.16.124.134', '172.16.124.6', '172.16.124.22', '172.16.124.133', '172.16.124.41', '172.16.124.55', '172.16.124.13', '172.16.124.132', '172.16.124.18', '172.16.124.21', '172.16.124.57', '172.16.124.66', '172.16.124.62', '172.16.124.38', '172.16.124.40', '172.16.124.56', '172.16.124.137', '172.16.124.32', '172.16.124.23', '172.16.124.33', '172.16.124.19', '172.16.124.10', '172.16.124.8', '172.16.124.35', '172.16.124.54', '172.16.124.43', '172.16.124.9', '172.16.124.58', '172.16.124.20', '172.16.124.122', '172.16.124.140', '172.16.124.31', '172.16.124.141', '172.16.124.154', '172.16.124.136', '172.16.124.155', '172.16.124.14', '172.16.124.4', '172.16.124.3', '172.16.124.253', '172.16.124.191', '172.16.124.27', '172.16.124.30', '172.16.78.6', '172.16.62.159', '172.16.14.26', '172.16.62.169', '172.16.62.168', '172.16.62.181', '172.22.0.3', '172.22.0.2', '172.22.0.4', '172.22.0.6', '172.22.0.5', '172.16.137.2', '172.16.137.5', '172.16.137.3', '172.16.137.4', '172.16.137.1', '172.16.166.3', '172.16.166.2', '172.16.166.9', '172.16.166.4', '172.16.166.5', '172.16.166.6', '172.16.166.7', '172.16.166.10', '172.16.166.8', '172.16.189.198', '172.16.164.2', '172.25.240.2', '10.129.0.177', '10.129.0.30', '172.16.123.206', '172.16.123.201', '172.16.123.207', '172.16.123.200', '172.16.123.202', '172.16.121.37', '172.16.121.116', '172.16.121.25', '172.16.121.160', '172.16.121.94', '172.16.121.19', '172.16.121.21', '172.16.121.118', '172.16.121.65', '10.19.134.197', '10.19.134.199', '10.19.134.201', '10.19.134.198', '10.19.134.196', '10.19.134.195', '10.19.134.200', '10.19.134.194', '10.19.134.203']
+2025-05-08 16:42:24,569 - INFO -  * Detected change in 'C:\\Users\\pedromoura.idr\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\urllib3\\connectionpool.py', reloading
+2025-05-08 16:42:25,210 - INFO - Hostnames confiáveis atualizados do endpoint remoto: ['NLENPE09TLLH', 'nlenpe09tllh.suzano.com.br', 'DESKTOP-4UEQKKN', 'NLENPE09Y58J.suzano.com.br', 'ndel3pnlpz2.suzano.com.br', 'NDEL6Z13TZ3.suzano.com.br', 'NDELGBDXSZ3.suzano.com.br', 'IMPWVREP001.suzano.com.br', 'nlenpe09y5vh.suzano.com.br', 'NDELDMKR044.suzano.com.br', 'ndeldmkr044.suzano.com.br', 'Desconhecido', 'tecimp', 'NDELFQNR8G3.suzano.com.br', 'ndelfqnr8g3.suzano.com.br', 'DDEL17SBVZ3.suzano.com.br', 'ddel17sbvz3.suzano.com.br']
+2025-05-08 16:42:25,226 - INFO - 2025-05-08 16:42:25 - ✅ Dados mesclados consultados por NLENPE09TLLH
+2025-05-08 16:42:25,366 - INFO - 10.94.9.190 - - [08/May/2025 16:42:25] "GET /get-data HTTP/1.1" 200 -
+2025-05-08 16:42:25,689 - INFO -  * Restarting with watchdog (windowsapi)
