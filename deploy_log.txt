@@ -14826,3 +14826,17 @@ fatal: unable to access 'https://github.com/swmapsuz/backupswmapsuzano.git/': Co
 2025-05-09 16:10:31.231038: Deploy concluído com sucesso!
 2025-05-09 16:10:31.231038: Aguardando para o próximo deploy...
 2025-05-09 16:11:31.239542: Iniciando deploy às 2025-05-09 16:11:31
+2025-05-09 16:11:31.727892: 
+2025-05-09 16:11:32.102888: Arquivos alterados:
+M  backend/SWICTHMAP/websocket/dados.json
+MM deploy_log.txt
+
+2025-05-09 16:11:32.713194: [main 3506640a] Backup automatizado: 2025-05-09 16:11:32
+ 2 files changed, 14 insertions(+), 1 deletion(-)
+
+2025-05-09 16:11:33.369920: Erro: Falha ao fazer push
+fatal: unable to access 'https://github.com/swmapsuz/backupswmapsuzano.git/': Could not resolve host: github.com
+
+2025-05-09 16:11:33.385543: Deploy concluído com sucesso!
+2025-05-09 16:11:33.385543: Aguardando para o próximo deploy...
+2025-05-09 16:12:33.388044: Iniciando deploy às 2025-05-09 16:12:33
