@@ -16412,3 +16412,17 @@ MM deploy_log.txt
 2025-05-09 18:42:48.068363: Deploy concluído com sucesso!
 2025-05-09 18:42:48.068363: Aguardando para o próximo deploy...
 2025-05-09 18:43:48.077033: Iniciando deploy às 2025-05-09 18:43:48
+2025-05-09 18:43:48.582496: 
+2025-05-09 18:43:48.957499: Arquivos alterados:
+M  backend/SWICTHMAP/websocket/dados.json
+MM deploy_log.txt
+
+2025-05-09 18:43:49.551119: [main cd85614d] Backup automatizado: 2025-05-09 18:43:48
+ 2 files changed, 476 insertions(+), 465 deletions(-)
+
+2025-05-09 18:43:50.285500: Erro: Falha ao fazer push
+fatal: unable to access 'https://github.com/swmapsuz/backupswmapsuzano.git/': Could not resolve host: github.com
+
+2025-05-09 18:43:50.285500: Deploy concluído com sucesso!
+2025-05-09 18:43:50.285500: Aguardando para o próximo deploy...
+2025-05-09 18:44:50.295946: Iniciando deploy às 2025-05-09 18:44:50
