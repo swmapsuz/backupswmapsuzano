@@ -14840,3 +14840,16 @@ fatal: unable to access 'https://github.com/swmapsuz/backupswmapsuzano.git/': Co
 2025-05-09 16:11:33.385543: Deploy concluído com sucesso!
 2025-05-09 16:11:33.385543: Aguardando para o próximo deploy...
 2025-05-09 16:12:33.388044: Iniciando deploy às 2025-05-09 16:12:33
+2025-05-09 16:12:33.832496: 
+2025-05-09 16:12:34.223168: Arquivos alterados:
+MM deploy_log.txt
+
+2025-05-09 16:12:34.770950: [main ea30768a] Backup automatizado: 2025-05-09 16:12:34
+ 1 file changed, 14 insertions(+)
+
+2025-05-09 16:12:35.474502: Erro: Falha ao fazer push
+fatal: unable to access 'https://github.com/swmapsuz/backupswmapsuzano.git/': Could not resolve host: github.com
+
+2025-05-09 16:12:35.474502: Deploy concluído com sucesso!
+2025-05-09 16:12:35.474502: Aguardando para o próximo deploy...
+2025-05-09 16:13:35.478282: Iniciando deploy às 2025-05-09 16:13:35
