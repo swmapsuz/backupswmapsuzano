@@ -4485,3 +4485,5 @@
 2025-05-10 17:23:35,462 - INFO -  * Detected change in 'A:\\SwitchMap\\backend\\SWICTHMAP\\websocket\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py', reloading
 2025-05-10 17:23:35,462 - INFO -  * Detected change in 'A:\\SwitchMap\\backend\\SWICTHMAP\\websocket\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py', reloading
 2025-05-10 17:23:35,541 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-10 17:23:36,479 - WARNING -  * Debugger is active!
+2025-05-10 17:23:36,494 - INFO -  * Debugger PIN: 317-198-958
