@@ -6094,3 +6094,6 @@
 2025-05-10 17:31:23,697 - INFO -  * Detected change in 'C:\\Users\\pedromoura.idr\\AppData\\Local\\Programs\\Python\\Python311\\Tools\\scripts\\verify_ensurepip_wheels.py', reloading
 2025-05-10 17:31:23,697 - INFO -  * Detected change in 'C:\\Users\\pedromoura.idr\\AppData\\Local\\Programs\\Python\\Python311\\Tools\\scripts\\which.py', reloading
 2025-05-10 17:31:23,697 - INFO -  * Detected change in 'C:\\Users\\pedromoura.idr\\AppData\\Local\\Programs\\Python\\Python311\\Tools\\scripts\\win_add2path.py', reloading
+2025-05-10 17:31:23,838 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-10 17:31:24,854 - WARNING -  * Debugger is active!
+2025-05-10 17:31:24,870 - INFO -  * Debugger PIN: 317-198-958
