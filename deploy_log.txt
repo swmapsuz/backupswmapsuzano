@@ -25211,3 +25211,17 @@ MM deploy_log.txt
 2025-05-10 08:45:39.556634: Deploy concluído com sucesso!
 2025-05-10 08:45:39.556634: Aguardando para o próximo deploy...
 2025-05-10 08:46:39.568791: Iniciando deploy às 2025-05-10 08:46:39
+2025-05-10 08:46:40.070307: 
+2025-05-10 08:46:40.445955: Arquivos alterados:
+M  backend/SWICTHMAP/websocket/dados.json
+MM deploy_log.txt
+
+2025-05-10 08:46:41.071453: [main 596b95fc] Backup automatizado: 2025-05-10 08:46:40
+ 2 files changed, 606 insertions(+), 595 deletions(-)
+
+2025-05-10 08:47:02.933814: Erro: Falha ao fazer push
+fatal: unable to access 'https://github.com/swmapsuz/backupswmapsuzano.git/': Failed to connect to github.com port 443 after 21183 ms: Could not connect to server
+
+2025-05-10 08:47:02.949202: Deploy concluído com sucesso!
+2025-05-10 08:47:02.949202: Aguardando para o próximo deploy...
+2025-05-10 08:48:02.950865: Iniciando deploy às 2025-05-10 08:48:02
