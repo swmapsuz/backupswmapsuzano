@@ -54269,3 +54269,16 @@ MM deploy_log.txt
 2025-05-12 07:09:42.638162: Deploy concluído com sucesso!
 2025-05-12 07:09:42.653787: Aguardando para o próximo deploy...
 2025-05-12 07:10:42.655371: Iniciando deploy às 2025-05-12 07:10:42
+2025-05-12 07:10:43.135173: 
+2025-05-12 07:10:43.511115: Arquivos alterados:
+MM deploy_log.txt
+
+2025-05-12 07:10:44.104842: [main 949ac2b1] Backup automatizado: 2025-05-12 07:10:43
+ 1 file changed, 11 insertions(+)
+
+2025-05-12 07:12:55.111404: Erro: Falha ao fazer push
+fatal: unable to access 'https://github.com/swmapsuz/backupswmapsuzano.git/': schannel: next InitializeSecurityContext failed: SEC_E_INVALID_TOKEN (0x80090308) - O token fornecido para a função é inválido
+
+2025-05-12 07:12:55.111404: Deploy concluído com sucesso!
+2025-05-12 07:12:55.111404: Aguardando para o próximo deploy...
+2025-05-12 07:13:55.118455: Iniciando deploy às 2025-05-12 07:13:55
