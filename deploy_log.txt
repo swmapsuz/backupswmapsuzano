@@ -74272,3 +74272,17 @@ fatal: unable to access 'https://github.com/swmapsuz/backupswmapsuzano.git/': sc
 2025-05-13 15:23:32.507373: Deploy concluído com sucesso!
 2025-05-13 15:23:32.507373: Aguardando para o próximo deploy...
 2025-05-13 15:24:32.520813: Iniciando deploy às 2025-05-13 15:24:32
+2025-05-13 15:24:33.082611: 
+2025-05-13 15:24:33.473636: Arquivos alterados:
+M  backend/SWICTHMAP/websocket/dados.json
+MM deploy_log.txt
+
+2025-05-13 15:24:34.114692: [main 3ff2bedde] Backup automatizado: 2025-05-13 15:24:33
+ 2 files changed, 567 insertions(+), 553 deletions(-)
+
+2025-05-13 15:26:45.017507: Erro: Falha ao fazer push
+fatal: unable to access 'https://github.com/swmapsuz/backupswmapsuzano.git/': schannel: next InitializeSecurityContext failed: SEC_E_INVALID_TOKEN (0x80090308) - O token fornecido para a função é inválido
+
+2025-05-13 15:26:45.017507: Deploy concluído com sucesso!
+2025-05-13 15:26:45.017507: Aguardando para o próximo deploy...
+2025-05-13 15:27:45.029922: Iniciando deploy às 2025-05-13 15:27:45
