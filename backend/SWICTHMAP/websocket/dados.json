@@ -30,7 +30,7 @@
                 "3.20 V",
                 "0.27 mW"
             ],
-            "tempo_resposta": 36,
+            "tempo_resposta": 39,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -2333,7 +2333,7 @@
                 "3.20 V",
                 "0.27 mW"
             ],
-            "tempo_resposta": 36,
+            "tempo_resposta": 39,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -3877,7 +3877,7 @@
                     "tipo": "imp",
                     "nome": "IMPRESSORA",
                     "ip": "172.16.235.63",
-                    "tempo_resposta": 36
+                    "tempo_resposta": 39
                 }
             ],
             "valores": [
@@ -10439,7 +10439,7 @@
                 "83.7",
                 "31.0 C"
             ],
-            "tempo_resposta": 39,
+            "tempo_resposta": 31,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -11297,7 +11297,7 @@
                     "tipo": "AP",
                     "nome": "AP_TISSUE_10.103",
                     "ip": "172.16.124.103",
-                    "tempo_resposta": 36
+                    "tempo_resposta": 31
                 },
                 {
                     "ativo": "#00d700",
@@ -13080,7 +13080,7 @@
                 "3.30 V",
                 "0.29 mW"
             ],
-            "tempo_resposta": 39,
+            "tempo_resposta": 31,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -14276,7 +14276,7 @@
                 "3.20 V",
                 "0.31 mW"
             ],
-            "tempo_resposta": 36,
+            "tempo_resposta": 31,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -15422,7 +15422,7 @@
                 "-",
                 "-"
             ],
-            "tempo_resposta": 36,
+            "tempo_resposta": 39,
             "ports": []
         },
         {
@@ -15455,7 +15455,7 @@
                 "3.30 V",
                 "0.28 mW"
             ],
-            "tempo_resposta": 23,
+            "tempo_resposta": 39,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -16979,7 +16979,7 @@
                 "6.01",
                 "3.26"
             ],
-            "tempo_resposta": 31,
+            "tempo_resposta": 39,
             "ports": []
         },
         {
@@ -17068,7 +17068,7 @@
                 "3.20 V",
                 "0.28 mW"
             ],
-            "tempo_resposta": 31,
+            "tempo_resposta": 46,
             "ports": [
                 {
                     "Status": "Down: Port down",
@@ -20098,7 +20098,7 @@
                 "3.20 V",
                 "0.20 mW"
             ],
-            "tempo_resposta": 36,
+            "tempo_resposta": 39,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -21191,7 +21191,7 @@
                 "29.0 C",
                 "35.0 C"
             ],
-            "tempo_resposta": 36,
+            "tempo_resposta": 15,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -23831,7 +23831,7 @@
                 "3.20 V",
                 "0.31 mW"
             ],
-            "tempo_resposta": 31,
+            "tempo_resposta": 39,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -25335,7 +25335,7 @@
                 "3.20 V",
                 "0.32 mW"
             ],
-            "tempo_resposta": 36,
+            "tempo_resposta": 39,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -26313,7 +26313,7 @@
                 "74.5",
                 "66.2"
             ],
-            "tempo_resposta": 23,
+            "tempo_resposta": 31,
             "ports": [
                 {
                     "Status": "Ok",
@@ -26739,7 +26739,7 @@
                 "3.20 V",
                 "1.35 mW"
             ],
-            "tempo_resposta": 31,
+            "tempo_resposta": 39,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -28313,7 +28313,7 @@
                 "3.20 V",
                 "0.27 mW"
             ],
-            "tempo_resposta": 15,
+            "tempo_resposta": 23,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -31351,7 +31351,7 @@
                 "64.2",
                 "30.0 C"
             ],
-            "tempo_resposta": 28,
+            "tempo_resposta": 23,
             "ports": [
                 {
                     "Status": "Down: Port down",
@@ -33432,7 +33432,7 @@
                 "3.20 V",
                 "0.28 mW"
             ],
-            "tempo_resposta": 28,
+            "tempo_resposta": 46,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -36518,7 +36518,7 @@
                 "3.30 V",
                 "0.63 mW"
             ],
-            "tempo_resposta": 15,
+            "tempo_resposta": 62,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -38020,7 +38020,7 @@
                 "24.0 C",
                 "31.0 C"
             ],
-            "tempo_resposta": 15,
+            "tempo_resposta": 31,
             "ports": [
                 {
                     "Status": "Down: Port down",
@@ -40300,7 +40300,7 @@
                 "-",
                 "-"
             ],
-            "tempo_resposta": 15,
+            "tempo_resposta": 23,
             "ports": []
         },
         {
@@ -40338,7 +40338,7 @@
                 "3.30 V",
                 "0.31 mW"
             ],
-            "tempo_resposta": 23,
+            "tempo_resposta": 39,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -41876,7 +41876,7 @@
                 "3.30 V",
                 "0.28 mW"
             ],
-            "tempo_resposta": 23,
+            "tempo_resposta": 117,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -44240,7 +44240,7 @@
                 "-",
                 "-"
             ],
-            "tempo_resposta": 28,
+            "tempo_resposta": 23,
             "ports": []
         },
         {
@@ -44273,7 +44273,7 @@
                 "3.30 V",
                 "0.28 mW"
             ],
-            "tempo_resposta": 28,
+            "tempo_resposta": 31,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -45014,7 +45014,7 @@
                 "3.30 V",
                 "0.28 mW"
             ],
-            "tempo_resposta": 82,
+            "tempo_resposta": 39,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -48114,7 +48114,7 @@
                 "3.20 V",
                 "0.26 mW"
             ],
-            "tempo_resposta": 28,
+            "tempo_resposta": 31,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -49287,7 +49287,7 @@
                 "3.20 V",
                 "0.49 mW"
             ],
-            "tempo_resposta": 23,
+            "tempo_resposta": 31,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -50347,7 +50347,7 @@
                 "40.0 C",
                 "36.0 C"
             ],
-            "tempo_resposta": 7,
+            "tempo_resposta": 39,
             "ports": [
                 {
                     "Status": "Down: Port down",
@@ -52011,7 +52011,7 @@
                 "-",
                 "-"
             ],
-            "tempo_resposta": 15,
+            "tempo_resposta": 23,
             "ports": []
         },
         {
@@ -52047,7 +52047,7 @@
                 "3.20 V",
                 "0.32 mW"
             ],
-            "tempo_resposta": 7,
+            "tempo_resposta": 39,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -54321,7 +54321,7 @@
                 "3.30 V",
                 "0.28 mW"
             ],
-            "tempo_resposta": 23,
+            "tempo_resposta": 39,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -55834,7 +55834,7 @@
                 "30.0 C",
                 "35.0 C"
             ],
-            "tempo_resposta": 15,
+            "tempo_resposta": 23,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -56966,7 +56966,7 @@
                 "-",
                 "-"
             ],
-            "tempo_resposta": 15,
+            "tempo_resposta": 31,
             "ports": []
         },
         {
@@ -57004,7 +57004,7 @@
                 "3.20 V",
                 "0.31 mW"
             ],
-            "tempo_resposta": 15,
+            "tempo_resposta": 39,
             "ports": [
                 {
                     "Status": "Admin down",
@@ -64058,7 +64058,7 @@
                 "28.0 C",
                 "34.0 C"
             ],
-            "tempo_resposta": 55,
+            "tempo_resposta": 70,
             "ports": [
                 {
                     "Status": "Ok",
@@ -66251,7 +66251,7 @@
                 "28.0 C",
                 "34.0 C"
             ],
-            "tempo_resposta": 71,
+            "tempo_resposta": 78,
             "ports": []
         },
         {
@@ -66275,7 +66275,7 @@
                 "39.0 C",
                 "46.0 C"
             ],
-            "tempo_resposta": 40,
+            "tempo_resposta": 54,
             "ports": []
         },
         {
@@ -66304,7 +66304,7 @@
                 "34.0 C",
                 "41.0 C"
             ],
-            "tempo_resposta": 71,
+            "tempo_resposta": 78,
             "ports": []
         },
         {
@@ -66325,7 +66325,7 @@
                 "33.0 C",
                 "40.0 C"
             ],
-            "tempo_resposta": 40,
+            "tempo_resposta": 39,
             "ports": []
         },
         {
@@ -66352,7 +66352,7 @@
                 "35.0 C",
                 "40.0 C"
             ],
-            "tempo_resposta": 71,
+            "tempo_resposta": 86,
             "ports": []
         },
         {
@@ -66381,7 +66381,7 @@
                 "0.28 mW",
                 "36.0 C"
             ],
-            "tempo_resposta": 71,
+            "tempo_resposta": 70,
             "ports": []
         },
         {
@@ -66405,7 +66405,7 @@
                 "0.28 mW",
                 "51.0 C"
             ],
-            "tempo_resposta": 40,
+            "tempo_resposta": 39,
             "ports": []
         },
         {
@@ -66429,7 +66429,7 @@
                 "0.26 mW",
                 "44.0 C"
             ],
-            "tempo_resposta": 40,
+            "tempo_resposta": 49,
             "ports": []
         },
         {
@@ -66453,7 +66453,7 @@
                 "0.32 mW",
                 "42.0 C"
             ],
-            "tempo_resposta": 47,
+            "tempo_resposta": 39,
             "ports": []
         },
         {
@@ -66477,7 +66477,7 @@
                 "0.28 mW",
                 "42.0 C"
             ],
-            "tempo_resposta": 71,
+            "tempo_resposta": 62,
             "ports": []
         },
         {
@@ -66504,7 +66504,7 @@
                 "33.0 C",
                 "38.0 C"
             ],
-            "tempo_resposta": 71,
+            "tempo_resposta": 62,
             "ports": []
         },
         {
@@ -66535,7 +66535,7 @@
                 "31.0 C",
                 "36.0 C"
             ],
-            "tempo_resposta": 40,
+            "tempo_resposta": 46,
             "ports": []
         },
         {
@@ -66560,7 +66560,7 @@
                 "41.0 C",
                 "43.0 C"
             ],
-            "tempo_resposta": 40,
+            "tempo_resposta": 41,
             "ports": []
         },
         {
@@ -66584,7 +66584,7 @@
                 "33.0 C",
                 "41.0 C"
             ],
-            "tempo_resposta": 71,
+            "tempo_resposta": 70,
             "ports": []
         },
         {
@@ -66608,7 +66608,7 @@
                 "33.0 C",
                 "41.0 C"
             ],
-            "tempo_resposta": 40,
+            "tempo_resposta": 41,
             "ports": []
         },
         {
@@ -66642,7 +66642,7 @@
                 "26.0 C",
                 "35.0 C"
             ],
-            "tempo_resposta": 71,
+            "tempo_resposta": 62,
             "ports": []
         },
         {
@@ -66736,7 +66736,7 @@
                 "24.0 C",
                 "34.0 C"
             ],
-            "tempo_resposta": 40,
+            "tempo_resposta": 31,
             "ports": []
         },
         {
@@ -66755,7 +66755,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 102
+            "tempo_resposta": 96
         },
         {
             "tipo": "sw",
@@ -66773,7 +66773,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 126
+            "tempo_resposta": 125
         },
         {
             "tipo": "sw",
@@ -66791,7 +66791,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 102,
+            "tempo_resposta": 94,
             "valores": [
                 "6.00",
                 "40.6",
@@ -66848,7 +66848,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 87
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -66866,7 +66866,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 118
+            "tempo_resposta": 117
         },
         {
             "tipo": "sw",
@@ -66884,7 +66884,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 87
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -66902,7 +66902,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 87
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -66919,7 +66919,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 110,
+            "tempo_resposta": 109,
             "observacao": "Teste de aprovação",
             "valores": [
                 "38.0",
@@ -66945,7 +66945,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 63,
+            "tempo_resposta": 70,
             "valores": [
                 "38.0",
                 "23.1",
@@ -66985,7 +66985,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 79
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -67002,7 +67002,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 79
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -67019,7 +67019,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 71,
+            "tempo_resposta": 78,
             "valores": [
                 "5.00",
                 "40.7",
@@ -67066,7 +67066,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 79
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -67083,7 +67083,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 63
+            "tempo_resposta": 62
         },
         {
             "tipo": "sw",
@@ -67100,7 +67100,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 79
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -67117,7 +67117,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 71
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -67134,7 +67134,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 63,
+            "tempo_resposta": 62,
             "observacao": "LINHA 2"
         },
         {
@@ -67152,7 +67152,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 61
+            "tempo_resposta": 62
         },
         {
             "tipo": "sw",
@@ -67169,7 +67169,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 63,
+            "tempo_resposta": 70,
             "observacao": "CELOG"
         },
         {
@@ -67187,7 +67187,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 79,
+            "tempo_resposta": 78,
             "valores": [
                 "5.00",
                 "51.0",
@@ -67360,7 +67360,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 63,
+            "tempo_resposta": 70,
             "observacao": ""
         },
         {
@@ -67378,7 +67378,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 79,
+            "tempo_resposta": 78,
             "observacao": ""
         },
         {
@@ -67396,7 +67396,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 79
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -68773,7 +68773,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62,
+            "tempo_resposta": 70,
             "valores": [
                 "41.0",
                 "23.4",
@@ -69135,7 +69135,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62,
+            "tempo_resposta": 109,
             "valores": [
                 "33.0",
                 "23.2",
@@ -69492,7 +69492,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -69561,7 +69561,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 62
         },
         {
             "tipo": "sw",
@@ -69596,7 +69596,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -69889,7 +69889,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": 77
         },
         {
             "tipo": "sw",
@@ -69923,7 +69923,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": 77
         },
         {
             "tipo": "sw",
@@ -69974,7 +69974,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -69991,7 +69991,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": 77
         },
         {
             "tipo": "sw",
@@ -70110,7 +70110,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -70127,7 +70127,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 86
         },
         {
             "tipo": "sw",
@@ -70144,7 +70144,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 86
         },
         {
             "tipo": "sw",
@@ -70195,7 +70195,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": 59
         },
         {
             "tipo": "sw",
@@ -75211,7 +75211,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 94
+            "tempo_resposta": 86
         },
         {
             "tipo": "sw",
@@ -75245,7 +75245,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78,
+            "tempo_resposta": 70,
             "valores": [
                 "2.00",
                 "37.9",
@@ -76647,7 +76647,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 96
+            "tempo_resposta": 94
         },
         {
             "tipo": "sw",
@@ -76664,7 +76664,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 96
+            "tempo_resposta": 94
         },
         {
             "tipo": "sw",
@@ -76715,7 +76715,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 140
+            "tempo_resposta": 117
         },
         {
             "tipo": "sw",
@@ -76750,7 +76750,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 103,
+            "tempo_resposta": 101,
             "valores": [
                 "4.00",
                 "17.0",
@@ -76978,7 +76978,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 103
+            "tempo_resposta": 101
         },
         {
             "tipo": "sw",
@@ -77012,7 +77012,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 48,
+            "tempo_resposta": 54,
             "observacao": "Teste de mapeamento"
         },
         {
@@ -77030,7 +77030,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46
+            "tempo_resposta": 54
         },
         {
             "tipo": "sw",
@@ -77047,7 +77047,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 103
+            "tempo_resposta": 94
         },
         {
             "tipo": "sw",
@@ -77098,7 +77098,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 86
         },
         {
             "tipo": "sw",
@@ -77115,7 +77115,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 86
         },
         {
             "tipo": "sw",
@@ -77183,7 +77183,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54,
+            "tempo_resposta": 46,
             "observacao": ""
         },
         {
@@ -77201,7 +77201,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 103,
+            "tempo_resposta": 107,
             "observacao": "Bloco Abastecimento-Abastecimento"
         },
         {
@@ -77236,7 +77236,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": 55
         },
         {
             "tipo": "sw",
@@ -77253,7 +77253,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 89
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -77270,7 +77270,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": 51
         },
         {
             "tipo": "sw",
@@ -77287,7 +77287,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 89
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -77304,7 +77304,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 96
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -77321,7 +77321,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": 62
         },
         {
             "tipo": "sw",
@@ -77355,7 +77355,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": 102
         },
         {
             "tipo": "sw",
@@ -77372,7 +77372,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 66
+            "tempo_resposta": 62
         },
         {
             "tipo": "sw",
@@ -77389,7 +77389,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 84
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -77406,7 +77406,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -77423,7 +77423,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": 102
         },
         {
             "tipo": "sw",
@@ -77508,7 +77508,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": 109
         },
         {
             "tipo": "sw",
@@ -77542,7 +77542,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62,
+            "tempo_resposta": 70,
             "observacao": ""
         },
         {
@@ -77630,7 +77630,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": 62
         },
         {
             "tipo": "sw",
@@ -77647,7 +77647,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 84
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -77681,7 +77681,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 84
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -77715,7 +77715,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47
+            "tempo_resposta": 46
         },
         {
             "tipo": "sw",
@@ -77732,7 +77732,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47
+            "tempo_resposta": 46
         },
         {
             "tipo": "sw",
@@ -77749,7 +77749,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 84
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -77766,7 +77766,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47
+            "tempo_resposta": 54
         },
         {
             "tipo": "sw",
@@ -77783,7 +77783,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 84
+            "tempo_resposta": 86
         },
         {
             "tipo": "sw",
@@ -77817,7 +77817,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": 109
         },
         {
             "tipo": "sw",
@@ -77834,7 +77834,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 84
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -77868,7 +77868,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 66
+            "tempo_resposta": 62
         },
         {
             "tipo": "sw",
@@ -77902,7 +77902,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": 46
         },
         {
             "tipo": "sw",
@@ -77919,7 +77919,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 86
         },
         {
             "tipo": "sw",
@@ -77936,7 +77936,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 125,
+            "tempo_resposta": 78,
             "valores": [
                 "5.00",
                 "13.4",
@@ -78504,7 +78504,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101,
+            "tempo_resposta": 102,
             "valores": [
                 "5.00",
                 "40.5",
@@ -78551,7 +78551,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 94
+            "tempo_resposta": 86
         },
         {
             "tipo": "sw",
@@ -78568,7 +78568,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": 109
         },
         {
             "tipo": "sw",
@@ -78619,7 +78619,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": 46
         },
         {
             "tipo": "sw",
@@ -78636,7 +78636,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47
+            "tempo_resposta": 54
         },
         {
             "tipo": "sw",
@@ -78738,7 +78738,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46,
+            "tempo_resposta": 48,
             "valores": [
                 "5.00",
                 "27.4",
@@ -79164,7 +79164,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46
+            "tempo_resposta": 48
         },
         {
             "tipo": "sw",
@@ -79215,7 +79215,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -79232,7 +79232,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 94
+            "tempo_resposta": 98
         },
         {
             "tipo": "sw",
@@ -79284,7 +79284,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46
+            "tempo_resposta": 48
         },
         {
             "tipo": "sw",
@@ -79318,7 +79318,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": 55
         },
         {
             "tipo": "sw",
@@ -79335,7 +79335,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": 86
         },
         {
             "tipo": "sw",
@@ -79387,7 +79387,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": 98
         },
         {
             "tipo": "sw",
@@ -79440,7 +79440,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85,
+            "tempo_resposta": 78,
             "observacao": ""
         },
         {
@@ -79476,7 +79476,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54,
+            "tempo_resposta": 55,
             "observacao": ""
         },
         {
@@ -79494,7 +79494,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 86,
+            "tempo_resposta": 90,
             "observacao": ""
         },
         {
@@ -81278,7 +81278,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 109,
+            "tempo_resposta": 101,
             "valores": [
                 "-",
                 "-",
@@ -81320,7 +81320,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54,
+            "tempo_resposta": 55,
             "observacao": ""
         },
         {
@@ -81338,7 +81338,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 109
+            "tempo_resposta": 101
         },
         {
             "tipo": "sw",
@@ -81372,7 +81372,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46
+            "tempo_resposta": 48
         },
         {
             "tipo": "sw",
@@ -81406,7 +81406,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 94
+            "tempo_resposta": 86
         },
         {
             "tipo": "sw",
@@ -81423,7 +81423,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 94
+            "tempo_resposta": 86
         },
         {
             "tipo": "sw",
@@ -81440,7 +81440,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 94
+            "tempo_resposta": 93
         },
         {
             "tipo": "sw",
@@ -81474,7 +81474,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46
+            "tempo_resposta": 48
         },
         {
             "tipo": "sw",
@@ -81491,7 +81491,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": 48
         },
         {
             "tipo": "sw",
@@ -81508,7 +81508,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": 55
         },
         {
             "tipo": "sw",
@@ -81525,7 +81525,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": 55
         },
         {
             "tipo": "sw",
@@ -81542,7 +81542,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": 48
         },
         {
             "tipo": "sw",
@@ -81559,7 +81559,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": 109
         },
         {
             "tipo": "sw",
@@ -81661,7 +81661,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 109
+            "tempo_resposta": 101
         },
         {
             "tipo": "sw",
@@ -81695,7 +81695,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 86
+            "tempo_resposta": 91
         },
         {
             "tipo": "sw",
@@ -81831,7 +81831,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": 98
         },
         {
             "tipo": "sw",
@@ -81848,7 +81848,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 117
+            "tempo_resposta": 106
         },
         {
             "tipo": "sw",
@@ -81865,7 +81865,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 86
+            "tempo_resposta": 91
         },
         {
             "tipo": "sw",
@@ -81882,7 +81882,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47
+            "tempo_resposta": 54
         },
         {
             "tipo": "sw",
@@ -81916,7 +81916,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70,
+            "tempo_resposta": 62,
             "observacao": ""
         },
         {
@@ -81934,7 +81934,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54,
+            "tempo_resposta": 62,
             "observacao": ""
         },
         {
@@ -81952,7 +81952,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70,
+            "tempo_resposta": 75,
             "observacao": ""
         },
         {
@@ -81970,7 +81970,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70,
+            "tempo_resposta": 75,
             "observacao": ""
         },
         {
@@ -81988,7 +81988,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 43,
+            "tempo_resposta": 46,
             "observacao": ""
         },
         {
@@ -82006,7 +82006,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 43,
+            "tempo_resposta": 46,
             "observacao": ""
         },
         {
@@ -82024,7 +82024,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 43,
+            "tempo_resposta": 41,
             "observacao": ""
         },
         {
@@ -82042,7 +82042,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": 46
         },
         {
             "tipo": "sw",
@@ -82059,7 +82059,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 43,
+            "tempo_resposta": 46,
             "observacao": ""
         },
         {
@@ -82095,7 +82095,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70,
+            "tempo_resposta": 67,
             "observacao": "Teste"
         },
         {
@@ -82113,7 +82113,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70,
+            "tempo_resposta": 54,
             "observacao": ""
         },
         {
@@ -82131,7 +82131,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 43,
+            "tempo_resposta": 46,
             "observacao": ""
         },
         {
@@ -82149,7 +82149,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 43,
+            "tempo_resposta": 46,
             "observacao": ""
         },
         {
@@ -82167,7 +82167,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70,
+            "tempo_resposta": 67,
             "observacao": ""
         },
         {
@@ -82185,7 +82185,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 86
+            "tempo_resposta": 91
         },
         {
             "tipo": "sw",
@@ -82202,7 +82202,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 86
+            "tempo_resposta": 91
         },
         {
             "tipo": "sw",
@@ -82219,7 +82219,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 43
+            "tempo_resposta": 41
         },
         {
             "tipo": "sw",
@@ -82253,7 +82253,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 117
+            "tempo_resposta": 109
         },
         {
             "tipo": "sw",
@@ -82270,7 +82270,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": 67
         },
         {
             "tipo": "sw",
@@ -82287,7 +82287,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": 67
         },
         {
             "tipo": "sw",
@@ -82304,7 +82304,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": 67
         },
         {
             "tipo": "sw",
@@ -82321,7 +82321,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47
+            "tempo_resposta": 46
         },
         {
             "tipo": "sw",
@@ -82475,7 +82475,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 83
         },
         {
             "tipo": "sw",
@@ -82492,7 +82492,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 94
+            "tempo_resposta": 75
         },
         {
             "tipo": "sw",
@@ -82509,7 +82509,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47
+            "tempo_resposta": 46
         },
         {
             "tipo": "sw",
@@ -82526,7 +82526,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 75
         },
         {
             "tipo": "sw",
@@ -82543,7 +82543,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47
+            "tempo_resposta": 46
         },
         {
             "tipo": "sw",
@@ -82560,7 +82560,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": 59
         },
         {
             "tipo": "sw",
@@ -82594,7 +82594,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 82
         },
         {
             "tipo": "sw",
@@ -82611,7 +82611,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": 62
         },
         {
             "tipo": "sw",
@@ -82628,7 +82628,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": 77
         },
         {
             "tipo": "sw",
@@ -82662,7 +82662,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": 62
         },
         {
             "tipo": "sw",
@@ -82696,7 +82696,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": 77
         },
         {
             "tipo": "sw",
@@ -82713,7 +82713,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": 62
         },
         {
             "tipo": "sw",
@@ -82730,7 +82730,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": 77
         },
         {
             "tipo": "sw",
@@ -82747,7 +82747,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 82
         },
         {
             "tipo": "sw",
@@ -82764,7 +82764,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -82849,7 +82849,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 82
         },
         {
             "tipo": "sw",
@@ -82934,7 +82934,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 82
         },
         {
             "tipo": "sw",
@@ -83002,7 +83002,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47
+            "tempo_resposta": 54
         },
         {
             "tipo": "sw",
@@ -83070,7 +83070,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": 77
         },
         {
             "tipo": "sw",
@@ -83138,7 +83138,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 87
+            "tempo_resposta": 82
         },
         {
             "tipo": "sw",
@@ -83206,7 +83206,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": 62
         },
         {
             "tipo": "sw",
@@ -83223,7 +83223,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": 62
         },
         {
             "tipo": "sw",
@@ -83240,7 +83240,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 110
+            "tempo_resposta": 62
         },
         {
             "tipo": "sw",
@@ -83291,7 +83291,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 87
+            "tempo_resposta": 82
         },
         {
             "tipo": "sw",
@@ -83308,7 +83308,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -83342,7 +83342,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": 62
         },
         {
             "tipo": "sw",
@@ -83359,7 +83359,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": 62
         },
         {
             "tipo": "sw",
@@ -83376,7 +83376,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": 54
         },
         {
             "tipo": "sw",
@@ -83393,7 +83393,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -83410,7 +83410,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 87
+            "tempo_resposta": 82
         },
         {
             "tipo": "sw",
@@ -83427,7 +83427,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": 62
         },
         {
             "tipo": "sw",
@@ -83444,7 +83444,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46
+            "tempo_resposta": 47
         },
         {
             "tipo": "sw",
@@ -83461,7 +83461,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46
+            "tempo_resposta": 47
         },
         {
             "tipo": "sw",
@@ -83478,7 +83478,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46
+            "tempo_resposta": 47
         },
         {
             "tipo": "sw",
@@ -83495,7 +83495,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46
+            "tempo_resposta": 47
         },
         {
             "tipo": "sw",
@@ -83512,7 +83512,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46
+            "tempo_resposta": 47
         },
         {
             "tipo": "sw",
@@ -83743,7 +83743,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46
+            "tempo_resposta": 47
         },
         {
             "tipo": "sw",
@@ -83760,7 +83760,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46
+            "tempo_resposta": 47
         },
         {
             "tipo": "sw",
@@ -83871,7 +83871,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46
+            "tempo_resposta": 47
         },
         {
             "tipo": "sw",
@@ -83888,7 +83888,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46,
+            "tempo_resposta": 47,
             "valores": [
                 "5.00",
                 "36.3",
@@ -83963,7 +83963,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46
+            "tempo_resposta": 47
         },
         {
             "tipo": "sw",
@@ -84670,7 +84670,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 109
+            "tempo_resposta": 107
         },
         {
             "tipo": "sw",
@@ -84687,7 +84687,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 31
+            "tempo_resposta": 52
         },
         {
             "tipo": "sw",
@@ -84704,7 +84704,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 31
+            "tempo_resposta": 29
         },
         {
             "tipo": "sw",
@@ -84738,7 +84738,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": 60
         },
         {
             "tipo": "sw",
@@ -84755,7 +84755,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": 91
         },
         {
             "tipo": "sw",
@@ -84789,7 +84789,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85,
+            "tempo_resposta": 75,
             "observacao": "Teste de mapemento"
         },
         {
@@ -84807,7 +84807,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62,
+            "tempo_resposta": 52,
             "observacao": "Teste de mapeamento"
         },
         {
@@ -84825,7 +84825,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101,
+            "tempo_resposta": 107,
             "valores": [
                 "3.00",
                 "11.7",
@@ -84865,7 +84865,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78,
+            "tempo_resposta": 68,
             "observacao": "Teste de mapeamento"
         },
         {
@@ -84883,7 +84883,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": 52
         },
         {
             "tipo": "sw",
@@ -84940,7 +84940,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": 91
         },
         {
             "tipo": "sw",
@@ -84957,7 +84957,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": 91
         },
         {
             "tipo": "sw",
@@ -84974,7 +84974,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 117
+            "tempo_resposta": 107
         },
         {
             "tipo": "sw",
@@ -84991,7 +84991,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": 91
         },
         {
             "tipo": "sw",
@@ -85008,7 +85008,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": 107
         },
         {
             "tipo": "sw",
@@ -85025,7 +85025,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": 83
         },
         {
             "tipo": "sw",
@@ -85042,7 +85042,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": 83
         },
         {
             "tipo": "sw",
@@ -85059,7 +85059,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": 52
         },
         {
             "tipo": "sw",
@@ -85110,7 +85110,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 77
         },
         {
             "tipo": "sw",
@@ -85127,7 +85127,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 77
         },
         {
             "tipo": "sw",
@@ -85178,7 +85178,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": 69
         },
         {
             "tipo": "sw",
@@ -85212,7 +85212,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 77
         },
         {
             "tipo": "sw",
@@ -85229,7 +85229,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 77
         },
         {
             "tipo": "sw",
@@ -85348,7 +85348,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": 54
         },
         {
             "tipo": "sw",
@@ -85365,7 +85365,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 39,
+            "tempo_resposta": 38,
             "valores": [
                 "6.50",
                 "45.4",
@@ -86491,7 +86491,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": 93
         },
         {
             "tipo": "sw",
@@ -86542,7 +86542,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 117
+            "tempo_resposta": 101
         },
         {
             "tipo": "sw",
@@ -86559,7 +86559,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": 101
         },
         {
             "tipo": "sw",
@@ -86576,7 +86576,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": 108
         },
         {
             "tipo": "sw",
@@ -86593,7 +86593,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 85
         },
         {
             "tipo": "sw",
@@ -86678,7 +86678,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": 62
         },
         {
             "tipo": "sw",
@@ -86746,7 +86746,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 85
         },
         {
             "tipo": "sw",
@@ -86780,7 +86780,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 77
         },
         {
             "tipo": "sw",
@@ -86814,7 +86814,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": 101
         },
         {
             "tipo": "sw",
@@ -86882,7 +86882,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": 77
         },
         {
             "tipo": "sw",
@@ -86899,7 +86899,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": 77
         },
         {
             "tipo": "sw",
@@ -86933,7 +86933,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": 69
         },
         {
             "tipo": "sw",
@@ -86950,7 +86950,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 85
         },
         {
             "tipo": "sw",
@@ -86967,7 +86967,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": 62
         },
         {
             "tipo": "sw",
@@ -87001,7 +87001,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": 69
         },
         {
             "tipo": "sw",
@@ -87035,7 +87035,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -87069,7 +87069,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 148
+            "tempo_resposta": 93
         },
         {
             "tipo": "sw",
@@ -87103,7 +87103,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -87120,7 +87120,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": 93
         },
         {
             "tipo": "sw",
@@ -87137,7 +87137,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -87154,7 +87154,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -87172,7 +87172,7 @@
                     "tempo_resposta": 0
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -87262,7 +87262,7 @@
                     "tempo_resposta": 0
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -87280,7 +87280,7 @@
                     "tempo_resposta": 0
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 85
         },
         {
             "tipo": "sw",
@@ -87316,7 +87316,7 @@
                     "tempo_resposta": 0
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -87334,7 +87334,7 @@
                     "tempo_resposta": 0
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -87388,7 +87388,7 @@
                     "tempo_resposta": 0
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -87424,7 +87424,7 @@
                     "tempo_resposta": 0
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -87442,7 +87442,7 @@
                     "tempo_resposta": 0
                 }
             ],
-            "tempo_resposta": 39
+            "tempo_resposta": 46
         },
         {
             "tipo": "sw",
@@ -87514,7 +87514,7 @@
                     "tempo_resposta": 0
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": 117
         },
         {
             "tipo": "sw",
@@ -87532,7 +87532,7 @@
                     "tempo_resposta": 0
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -87640,7 +87640,7 @@
                     "tempo_resposta": -1
                 }
             ],
-            "tempo_resposta": 46
+            "tempo_resposta": 54
         },
         {
             "tipo": "sw",
@@ -87658,7 +87658,7 @@
                     "tempo_resposta": -1
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 171
         },
         {
             "tipo": "sw",
@@ -87676,7 +87676,7 @@
                     "tempo_resposta": -1
                 }
             ],
-            "tempo_resposta": 109
+            "tempo_resposta": 125
         },
         {
             "tipo": "sw",
@@ -87694,7 +87694,7 @@
                     "tempo_resposta": -1
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": 85
         },
         {
             "tipo": "sw",
@@ -87712,7 +87712,7 @@
                     "tempo_resposta": 0
                 }
             ],
-            "tempo_resposta": 109
+            "tempo_resposta": 320
         },
         {
             "tipo": "sw",
@@ -87730,7 +87730,7 @@
                     "tempo_resposta": 0
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": 109
         },
         {
             "tipo": "sw",
@@ -87748,7 +87748,7 @@
                     "tempo_resposta": 0
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": 93
         },
         {
             "tipo": "sw",
@@ -87766,7 +87766,7 @@
                     "tempo_resposta": 0
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -87784,7 +87784,7 @@
                     "tempo_resposta": 0
                 }
             ],
-            "tempo_resposta": 109,
+            "tempo_resposta": 125,
             "observacao": "Esse aqui"
         },
         {
@@ -87803,7 +87803,7 @@
                     "tempo_resposta": 0
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 101
         },
         {
             "tipo": "sw",
@@ -87839,7 +87839,7 @@
                     "tempo_resposta": 0
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": 109
         },
         {
             "tipo": "sw",
@@ -87857,7 +87857,7 @@
                     "tempo_resposta": 0
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": 109
         },
         {
             "tipo": "sw",
@@ -87875,7 +87875,7 @@
                     "tempo_resposta": 0
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": 101
         },
         {
             "tipo": "sw",
@@ -87892,7 +87892,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 171
         },
         {
             "tipo": "sw",
@@ -87994,7 +87994,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 85
         },
         {
             "tipo": "sw",
@@ -88011,7 +88011,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": 46
         },
         {
             "tipo": "sw",
@@ -88028,7 +88028,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 109
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -88045,7 +88045,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": 101
         },
         {
             "tipo": "sw",
@@ -88062,7 +88062,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -88079,7 +88079,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -88113,7 +88113,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": 101
         },
         {
             "tipo": "sw",
@@ -88130,7 +88130,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -88147,7 +88147,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -88181,7 +88181,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -88198,7 +88198,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": 62
         },
         {
             "tipo": "sw",
@@ -88232,7 +88232,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": 85
         },
         {
             "tipo": "sw",
@@ -88266,7 +88266,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 109
+            "tempo_resposta": 140
         },
         {
             "tipo": "sw",
@@ -88283,7 +88283,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -88300,7 +88300,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 85
         },
         {
             "tipo": "sw",
@@ -88334,7 +88334,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": 101
         },
         {
             "tipo": "sw",
@@ -88385,7 +88385,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 85
         },
         {
             "tipo": "sw",
@@ -88436,7 +88436,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": 101
         },
         {
             "tipo": "sw",
@@ -88453,7 +88453,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77,
+            "tempo_resposta": 78,
             "valores": [
                 "13.0",
                 "11.4",
@@ -88520,7 +88520,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -88554,7 +88554,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -88571,7 +88571,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": 124
         },
         {
             "tipo": "sw",
@@ -88622,7 +88622,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": 148
         },
         {
             "tipo": "sw",
@@ -88656,7 +88656,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 109
+            "tempo_resposta": 85
         },
         {
             "tipo": "sw",
@@ -88690,7 +88690,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": 101
         },
         {
             "tipo": "sw",
@@ -88741,7 +88741,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 85
         },
         {
             "tipo": "sw",
@@ -88758,7 +88758,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": 62
         },
         {
             "tipo": "sw",
@@ -88873,7 +88873,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46
+            "tempo_resposta": 47
         },
         {
             "tipo": "sw",
@@ -88890,7 +88890,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": 63
         },
         {
             "tipo": "sw",
@@ -88907,7 +88907,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 86
         },
         {
             "tipo": "sw",
@@ -88924,7 +88924,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": 148
         },
         {
             "tipo": "sw",
@@ -88941,7 +88941,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 86
         },
         {
             "tipo": "sw",
@@ -88975,7 +88975,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 125
+            "tempo_resposta": 109
         },
         {
             "tipo": "sw",
@@ -88992,7 +88992,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": 86
         },
         {
             "tipo": "sw",
@@ -89077,7 +89077,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": 94
         },
         {
             "tipo": "sw",
@@ -89094,7 +89094,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 86
         },
         {
             "tipo": "sw",
@@ -89111,7 +89111,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": 94
         },
         {
             "tipo": "sw",
@@ -89128,7 +89128,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": 63
         },
         {
             "tipo": "sw",
@@ -89145,7 +89145,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -89162,7 +89162,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": 63
         },
         {
             "tipo": "sw",
@@ -89196,7 +89196,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": 102
         },
         {
             "tipo": "sw",
@@ -89230,7 +89230,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -89247,7 +89247,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -89281,7 +89281,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": 63
         },
         {
             "tipo": "sw",
@@ -89298,7 +89298,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": 102
         },
         {
             "tipo": "sw",
@@ -89332,7 +89332,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": 94
         },
         {
             "tipo": "sw",
@@ -89349,7 +89349,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -89383,7 +89383,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -89451,7 +89451,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": 63
         },
         {
             "tipo": "sw",
@@ -89502,7 +89502,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": 94
         },
         {
             "tipo": "sw",
@@ -89519,7 +89519,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": 94
         },
         {
             "tipo": "sw",
@@ -89587,7 +89587,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": 94
         },
         {
             "tipo": "sw",
@@ -89604,7 +89604,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": 94
         },
         {
             "tipo": "sw",
@@ -89621,7 +89621,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -89638,7 +89638,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -89672,14 +89672,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": 63
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA29_JUMBO.200.229.suzano.com.br",
             "local": "",
             "ip": "172.25.200.229",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -89689,14 +89689,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA3_LAB_FAB.200.62.suzano.com.br",
             "local": "",
             "ip": "172.25.200.62",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -89706,14 +89706,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA30_SUP_FAB.200.130.suzano.com.br",
             "local": "",
             "ip": "172.25.200.130",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -89723,14 +89723,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 109
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA31_CA3.200.225.suzano.com.br",
             "local": "",
             "ip": "172.25.200.225",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -89740,14 +89740,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 109
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA32_CA5.200.226.suzano.com.br",
             "local": "",
             "ip": "172.25.200.226",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -89757,14 +89757,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA33_SUP_FAB.200.131.suzano.com.br",
             "local": "",
             "ip": "172.25.200.131",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -89774,14 +89774,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA34_CA2.200.244.suzano.com.br",
             "local": "",
             "ip": "172.25.200.244",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -89791,14 +89791,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA35_AGUARDE.200.248.suzano.com.br",
             "local": "",
             "ip": "172.25.200.248",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -89808,14 +89808,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA36_DEP_FAB.200.246.suzano.com.br",
             "local": "",
             "ip": "172.25.200.246",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -89825,14 +89825,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA38_MBBR.200.133.suzano.com.br",
             "local": "",
             "ip": "172.25.200.133",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -89842,14 +89842,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA39_JUMBO.200.249.suzano.com.br",
             "local": "",
             "ip": "172.25.200.249",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -89859,14 +89859,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA4_ENG.200.204.suzano.com.br",
             "local": "",
             "ip": "172.25.200.204",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -89876,14 +89876,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 38
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA40_CCM_COMV.200.134.suzano.com.br",
             "local": "",
             "ip": "172.25.200.134",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -89893,14 +89893,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA400_EOL_CCM.200.91.suzano.com.br",
             "local": "",
             "ip": "172.25.200.91",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -89910,14 +89910,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA403_EOL.200.135.suzano.com.br",
             "local": "",
             "ip": "172.25.200.135",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -89927,14 +89927,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA404_EOL.200.136.suzano.com.br",
             "local": "",
             "ip": "172.25.200.136",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -89944,14 +89944,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA405_EOL.200.139.suzano.com.br",
             "local": "",
             "ip": "172.25.200.139",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -89961,14 +89961,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA406_EOL.200.141.suzano.com.br",
             "local": "",
             "ip": "172.25.200.141",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -89978,14 +89978,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA407_EOL.200.142.suzano.com.br",
             "local": "",
             "ip": "172.25.200.142",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -89995,14 +89995,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA408_EOL.200.143.suzano.com.br",
             "local": "",
             "ip": "172.25.200.143",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90012,14 +90012,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA409_EOL.200.144.suzano.com.br",
             "local": "",
             "ip": "172.25.200.144",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90029,14 +90029,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA41_CCM_CONV.200.145.suzano.com.br",
             "local": "",
             "ip": "172.25.200.145",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90046,14 +90046,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA410_EOL.200.146.suzano.com.br",
             "local": "",
             "ip": "172.25.200.146",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90063,14 +90063,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 109
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA411_LINHA12.200.147.suzano.com.br",
             "local": "",
             "ip": "172.25.200.147",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90080,14 +90080,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA412_LINHA12.200.149.suzano.com.br",
             "local": "",
             "ip": "172.25.200.149",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90097,14 +90097,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA413_EOL.200.151.suzano.com.br",
             "local": "",
             "ip": "172.25.200.151",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90114,14 +90114,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA42_MP7.200.152.suzano.com.br",
             "local": "",
             "ip": "172.25.200.152",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90131,14 +90131,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA43_CCMMP8.1.200.153.suzano.com.br",
             "local": "",
             "ip": "172.25.200.153",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90148,14 +90148,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA44_SUB1.200.154.suzano.com.br",
             "local": "",
             "ip": "172.25.200.154",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90165,14 +90165,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA45_PULPER.200.155.suzano.com.br",
             "local": "",
             "ip": "172.25.200.155",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90182,14 +90182,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA46_CCMMP4.200.156.suzano.com.br",
             "local": "",
             "ip": "172.25.200.156",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90199,14 +90199,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA5_REST.200.205.suzano.com.br",
             "local": "",
             "ip": "172.25.200.205",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90216,14 +90216,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA6_EXPEDICAO.200.206.suzano.com.br",
             "local": "",
             "ip": "172.25.200.206",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90233,14 +90233,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA600_CONV.200.92.suzano.com.br",
             "local": "",
             "ip": "172.25.200.92",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90250,14 +90250,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 109
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA610_LINHA5.200.157.suzano.com.br",
             "local": "",
             "ip": "172.25.200.157",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90267,14 +90267,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA611_LINHA5.200.158.suzano.com.br",
             "local": "",
             "ip": "172.25.200.158",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90284,14 +90284,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA612_LINHA5.200.159.suzano.com.br",
             "local": "",
             "ip": "172.25.200.159",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90301,14 +90301,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 109
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA613_LINHA5.200.160.suzano.com.br",
             "local": "",
             "ip": "172.25.200.160",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90318,14 +90318,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA614_LINHA5.200.161.suzano.com.br",
             "local": "",
             "ip": "172.25.200.161",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90335,14 +90335,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA615_LINHA5.200.163.suzano.com.br",
             "local": "",
             "ip": "172.25.200.163",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90352,14 +90352,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA616_LINHA5.200.164.suzano.com.br",
             "local": "",
             "ip": "172.25.200.164",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90369,14 +90369,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA617_LINHA5.200.165.suzano.com.br",
             "local": "",
             "ip": "172.25.200.165",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90386,14 +90386,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA618_LINHA5.200.166.suzano.com.br",
             "local": "",
             "ip": "172.25.200.166",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90403,14 +90403,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA7_JEM.200.207.suzano.com.br",
             "local": "",
             "ip": "172.25.200.207",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90420,14 +90420,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA8_LINHA7.200.208.suzano.com.br",
             "local": "",
             "ip": "172.25.200.208",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90437,14 +90437,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA9_LINHA12.200.209.suzano.com.br",
             "local": "",
             "ip": "172.25.200.209",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90454,14 +90454,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA903_MP9.200.173.suzano.com.br",
             "local": "",
             "ip": "172.25.200.173",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90471,14 +90471,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 117
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA904_SUP_MP9.200.176.suzano.com.br",
             "local": "",
             "ip": "172.25.200.176",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90488,14 +90488,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA905_SUP_MP9.200.180.suzano.com.br",
             "local": "",
             "ip": "172.25.200.180",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90505,14 +90505,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA908_SUP_MP9.200.188.suzano.com.br",
             "local": "",
             "ip": "172.25.200.188",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90522,14 +90522,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWA909_PULPER.200.197.suzano.com.br",
             "local": "",
             "ip": "172.25.200.197",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90539,14 +90539,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWC1_CPD.200.253.suzano.com.br",
             "local": "",
             "ip": "172.25.200.253",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90556,14 +90556,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWC2_CPD.200.251.suzano.com.br",
             "local": "",
             "ip": "172.25.200.251",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90573,14 +90573,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWC201_CPD.200.88.suzano.com.br",
             "local": "",
             "ip": "172.25.200.88",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90590,14 +90590,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWC202_CPD.200.89.suzano.com.br",
             "local": "",
             "ip": "172.25.200.89",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90607,14 +90607,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWD300_CPD.200.90.suzano.com.br",
             "local": "",
             "ip": "172.25.200.90",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90624,14 +90624,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWD901_CPD.200.93.suzano.com.br",
             "local": "",
             "ip": "172.25.200.93",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90641,14 +90641,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-MGC-SWD902_CPD.200.94.suzano.com.br",
             "local": "",
             "ip": "172.25.200.94",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90658,14 +90658,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-RVE-SWA_ADM.123.196.suzano.com.br",
             "local": "",
             "ip": "172.16.123.196",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90675,14 +90675,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-RVE-SWA_EXP_MC1.123.215.suzano.com.br",
             "local": "",
             "ip": "172.16.123.215",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90692,14 +90692,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-RVE-SWA_MEDICO.123.206",
             "local": "",
             "ip": "172.16.123.206",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90709,7 +90709,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62,
+            "tempo_resposta": -1,
             "valores": [
                 "5.00",
                 "39.9",
@@ -90746,7 +90746,7 @@
             "nome": "BR-SP-FAB-RVE-SWA_POR_ADM.123.207",
             "local": "",
             "ip": "172.16.123.207",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90756,7 +90756,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62,
+            "tempo_resposta": -1,
             "valores": [
                 "-",
                 "-",
@@ -90770,7 +90770,7 @@
             "nome": "BR-SP-FAB-RVE-SWA_REMA.123.201",
             "local": "",
             "ip": "172.16.123.201",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90780,7 +90780,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77,
+            "tempo_resposta": -1,
             "valores": [
                 "5.00",
                 "40.1",
@@ -90817,7 +90817,7 @@
             "nome": "BR-SP-FAB-RVE-SWA_SL_DESCANSO.123.200",
             "local": "",
             "ip": "172.16.123.200",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90827,7 +90827,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70,
+            "tempo_resposta": -1,
             "valores": [
                 "5.00",
                 "38.7",
@@ -90864,7 +90864,7 @@
             "nome": "BR-SP-FAB-RVE-SWA_SL_ELET_CORT.123.216.suzano.com.br",
             "local": "",
             "ip": "172.16.123.216",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90874,14 +90874,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-RVE-SWA_SL_SUPERVISAO.123.214.suzano.com.br",
             "local": "",
             "ip": "172.16.123.214",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90891,14 +90891,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-RVE-SWA_SL_TREIN_ETA.123.202",
             "local": "",
             "ip": "172.16.123.202",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90908,7 +90908,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62,
+            "tempo_resposta": -1,
             "valores": [
                 "5.00",
                 "39.0",
@@ -90945,7 +90945,7 @@
             "nome": "BR-SP-FAB-RVE-SWC_CORE_ADM.123.194.suzano.com.br",
             "local": "",
             "ip": "172.16.123.194",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90955,14 +90955,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-RVE-SWD_DISTRI_ADM.123.212.suzano.com.br",
             "local": "",
             "ip": "172.16.123.212",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90972,14 +90972,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_PK3_121.100.suzano.com.br",
             "local": "",
             "ip": "172.16.121.100",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -90989,7 +90989,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62,
+            "tempo_resposta": -1,
             "observacao": ""
         },
         {
@@ -90997,7 +90997,7 @@
             "nome": "BR-SP-FAB-SUZ-SWA_ANDRITIZ.121.37",
             "local": "",
             "ip": "172.16.121.37",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91007,7 +91007,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62,
+            "tempo_resposta": -1,
             "valores": [
                 "7.00",
                 "51.4",
@@ -91086,7 +91086,7 @@
             "nome": "BR-SP-FAB-SUZ-SWA_CALD_ZANINI_121.109.suzano.com.br",
             "local": "",
             "ip": "172.16.121.109",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91096,14 +91096,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_CPD2_SL_KAPPER.121.86.suzano.com.br",
             "local": "",
             "ip": "172.16.121.86",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91113,14 +91113,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_DMZ_CPD2.121.18.suzano.com.br",
             "local": "",
             "ip": "172.16.121.18",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91130,14 +91130,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 125
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_DMZ_CPD2.121.20.suzano.com.br",
             "local": "",
             "ip": "172.16.121.20",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91147,14 +91147,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_ELET_GOTAVERG.121.145.suzano.com.br",
             "local": "",
             "ip": "172.16.121.145",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91164,14 +91164,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_ESTAC1.121.3.suzano.com.br",
             "local": "",
             "ip": "172.16.121.3",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91181,14 +91181,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_ESTAC2.121.4.suzano.com.br",
             "local": "",
             "ip": "172.16.121.4",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91198,14 +91198,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_ETA.121.53.suzano.com.br",
             "local": "",
             "ip": "172.16.121.53",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91215,14 +91215,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_INSERVIVEIS.121.55.suzano.com.br",
             "local": "",
             "ip": "172.16.121.55",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91232,14 +91232,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_KRAFT.121.116",
             "local": "",
             "ip": "172.16.121.116",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91249,7 +91249,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77,
+            "tempo_resposta": -1,
             "valores": [
                 "42.0",
                 "13.9",
@@ -91312,7 +91312,7 @@
             "nome": "BR-SP-FAB-SUZ-SWA_LONIL_POR1_121.251.suzano.com.br",
             "local": "",
             "ip": "172.16.121.251",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91322,14 +91322,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_OFI_PATIO_MADEIRA.121.129.suzano.com.br",
             "local": "",
             "ip": "172.16.121.129",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91339,14 +91339,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_PK1_PK2_121.91.suzano.com.br",
             "local": "",
             "ip": "172.16.121.91",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91356,14 +91356,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 77
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_POR_ETE.121.33.suzano.com.br",
             "local": "",
             "ip": "172.16.121.33",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91373,14 +91373,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_PORTARIA_2.121.130.suzano.com.br",
             "local": "",
             "ip": "172.16.121.130",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91390,14 +91390,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_PREDIO_FOLHAS.121.48.suzano.com.br",
             "local": "",
             "ip": "172.16.121.48",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91407,14 +91407,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R1_ACAB_CARTAO.121.151.suzano.com.br",
             "local": "",
             "ip": "172.16.121.151",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91424,14 +91424,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R1_CPD1.121.25",
             "local": "",
             "ip": "172.16.121.25",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91441,7 +91441,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54,
+            "tempo_resposta": -1,
             "valores": [
                 "1.00",
                 "37.2",
@@ -91694,7 +91694,7 @@
             "nome": "BR-SP-FAB-SUZ-SWA_R1_CPD1.121.26.suzano.com.br",
             "local": "",
             "ip": "172.16.121.26",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91704,14 +91704,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R2_ACAB_CARTAO.121.112.suzano.com.br",
             "local": "",
             "ip": "172.16.121.112",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91721,14 +91721,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R2_ACAB_CARTAO.121.113.suzano.com.br",
             "local": "",
             "ip": "172.16.121.113",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91738,14 +91738,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 46
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R2_ACAB_CARTAO.121.114.suzano.com.br",
             "local": "",
             "ip": "172.16.121.114",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91755,14 +91755,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R2_ACAB_COUCHE.121.102.suzano.com.br",
             "local": "",
             "ip": "172.16.121.102",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91772,14 +91772,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R2_ACAB_COUCHE.121.103.suzano.com.br",
             "local": "",
             "ip": "172.16.121.103",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91789,14 +91789,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R2_ACAB_COUCHE.121.105.suzano.com.br",
             "local": "",
             "ip": "172.16.121.105",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91806,14 +91806,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R2_ACAB_COUCHE.121.107.suzano.com.br",
             "local": "",
             "ip": "172.16.121.107",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91823,14 +91823,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R2_ACAB_COUCHE.121.108.suzano.com.br",
             "local": "",
             "ip": "172.16.121.108",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91840,14 +91840,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R2_ACAB_COUCHE.121.31.suzano.com.br",
             "local": "",
             "ip": "172.16.121.31",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91857,14 +91857,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R2_EMB_SUNDS.121.97.suzano.com.br",
             "local": "",
             "ip": "172.16.121.97",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91874,14 +91874,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R2_LAB_PAP_MB7_MB8.121.96.suzano.com.br",
             "local": "",
             "ip": "172.16.121.96",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91891,14 +91891,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 86
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R2_LINH_WILL.121.43.suzano.com.br",
             "local": "",
             "ip": "172.16.121.43",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91908,14 +91908,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 86
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R2_MAQUINA_B7.121.99.suzano.com.br",
             "local": "",
             "ip": "172.16.121.99",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91925,14 +91925,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R2_PEDAGIO.121.101.suzano.com.br",
             "local": "",
             "ip": "172.16.121.101",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91942,14 +91942,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R2_PREMASS_MB7.121.44.suzano.com.br",
             "local": "",
             "ip": "172.16.121.44",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91959,14 +91959,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 86
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R2_PREMASS_MB8.121.104.suzano.com.br",
             "local": "",
             "ip": "172.16.121.104",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91976,14 +91976,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R2_REBOB_MB8.121.106.suzano.com.br",
             "local": "",
             "ip": "172.16.121.106",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -91993,14 +91993,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R2_SL_ELET_MB8.121.5.suzano.com.br",
             "local": "",
             "ip": "172.16.121.5",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92010,14 +92010,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R2_SL_OP_MB8.121.93.suzano.com.br",
             "local": "",
             "ip": "172.16.121.93",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92027,14 +92027,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R2_SL_OPERACAO_MB7.121.38.suzano.com.br",
             "local": "",
             "ip": "172.16.121.38",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92044,14 +92044,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R2_WILL.121.110.suzano.com.br",
             "local": "",
             "ip": "172.16.121.110",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92061,14 +92061,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 109
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R3_ELET11_MB6.121.74.suzano.com.br",
             "local": "",
             "ip": "172.16.121.74",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92078,14 +92078,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R3_EMBALADEIRA_FLUFF.121.160.suzano.com.b",
             "local": "",
             "ip": "172.16.121.160",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92095,7 +92095,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47,
+            "tempo_resposta": -1,
             "valores": [
                 "25.0",
                 "14.3",
@@ -92130,7 +92130,7 @@
             "nome": "BR-SP-FAB-SUZ-SWA_R3_JM_TERREO.121.153.suzano.com.br",
             "local": "",
             "ip": "172.16.121.153",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92140,7 +92140,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
@@ -92157,14 +92157,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 93
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R3_LAB_PTA_MB5.121.76.suzano.com.br",
             "local": "",
             "ip": "172.16.121.76",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92174,14 +92174,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R3_MEZANINO_MB6.121.80.suzano.com.br",
             "local": "",
             "ip": "172.16.121.80",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92191,14 +92191,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R3_OFC_ACAB_CARTA.121.231.suzano.com.br",
             "local": "",
             "ip": "172.16.121.231",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92208,14 +92208,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R3_OP_SECA_MB5.121.79.suzano.com.br",
             "local": "",
             "ip": "172.16.121.79",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92225,14 +92225,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R3_OP_UMID_MB5.121.115.suzano.com.br",
             "local": "",
             "ip": "172.16.121.115",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92242,14 +92242,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R3_PORA_AUT_MB6.121.81.suzano.com.br",
             "local": "",
             "ip": "172.16.121.81",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92259,14 +92259,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R3_PORAO_LUB_MB6.121.85.suzano.com.br",
             "local": "",
             "ip": "172.16.121.85",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92276,14 +92276,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R3_PORAO_MB5.121.75.suzano.com.br",
             "local": "",
             "ip": "172.16.121.75",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92293,14 +92293,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R3_PORAO_MB6.121.87.suzano.com.br",
             "local": "",
             "ip": "172.16.121.87",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92310,14 +92310,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R3_PORAO_MB6.121.89.suzano.com.br",
             "local": "",
             "ip": "172.16.121.89",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92327,14 +92327,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R3_REBOB_MB6.121.88.suzano.com.br",
             "local": "",
             "ip": "172.16.121.88",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92344,14 +92344,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R3_SL_ACAB_CARTAO.121.82.suzano.com.br",
             "local": "",
             "ip": "172.16.121.82",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92361,14 +92361,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R3_SL_OP_MB6.121.84.suzano.com.br",
             "local": "",
             "ip": "172.16.121.84",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92378,14 +92378,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R3_SUPERVIS_MB5.121.78.suzano.com.br",
             "local": "",
             "ip": "172.16.121.78",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92395,14 +92395,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R4_LONIL_BOMB.121.136.suzano.com.br",
             "local": "",
             "ip": "172.16.121.136",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92412,14 +92412,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R4_MEZANINO_REMA.121.41.suzano.com.br",
             "local": "",
             "ip": "172.16.121.41",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92429,14 +92429,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R4_REMA.121.54.suzano.com.br",
             "local": "",
             "ip": "172.16.121.54",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92446,14 +92446,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 109
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R4_SL_BOMB.121.46.suzano.com.br",
             "local": "",
             "ip": "172.16.121.46",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92463,14 +92463,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R4_SL_MOTORES.121.35.suzano.com.br",
             "local": "",
             "ip": "172.16.121.35",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92480,14 +92480,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 117
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R5_ELET_APARAS.121.69.suzano.com.br",
             "local": "",
             "ip": "172.16.121.69",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92497,14 +92497,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R5_MEZ_OFC_GRAL.121.67.suzano.com.br",
             "local": "",
             "ip": "172.16.121.67",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92514,14 +92514,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R5_MEZ_OFC_GRAL.121.70.suzano.com.br",
             "local": "",
             "ip": "172.16.121.70",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92531,14 +92531,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R5_OFC_ALT_TENSAO.121.68.suzano.com.br",
             "local": "",
             "ip": "172.16.121.68",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92548,14 +92548,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R5_RAUMA.121.34.suzano.com.br",
             "local": "",
             "ip": "172.16.121.34",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92565,14 +92565,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R5_SL_OP_FLASH.121.71.suzano.com.br",
             "local": "",
             "ip": "172.16.121.71",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92582,14 +92582,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R5_TURB_GERADOR.121.64.suzano.com.br",
             "local": "",
             "ip": "172.16.121.64",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92599,14 +92599,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R6_POR1_AMZ_PLTFOR.121.23.suzano.com.br",
             "local": "",
             "ip": "172.16.121.23",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92616,14 +92616,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R6_POR1_ARMAZEM.121.62.suzano.com.br",
             "local": "",
             "ip": "172.16.121.62",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92633,14 +92633,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R6_POR1_PAINEIRA.121.117.suzano.com.br",
             "local": "",
             "ip": "172.16.121.117",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92650,14 +92650,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R6_POR2.121.57.suzano.com.br",
             "local": "",
             "ip": "172.16.121.57",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92667,14 +92667,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 54
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R6_POR2.121.60.suzano.com.br",
             "local": "",
             "ip": "172.16.121.60",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92684,14 +92684,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R6_SL_FIELD.121.150.suzano.com.br",
             "local": "",
             "ip": "172.16.121.150",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92701,14 +92701,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 759
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R6_SL_MOTORIST.121.210.suzano.com.br",
             "local": "",
             "ip": "172.16.121.210",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92718,14 +92718,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R7_JM_SUPERIOR.121.155.suzano.com.br",
             "local": "",
             "ip": "172.16.121.155",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92735,14 +92735,14 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 109
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
             "nome": "BR-SP-FAB-SUZ-SWA_R7_JM_SUPERIOR.121.157.suzano.com.br",
             "local": "",
             "ip": "172.16.121.157",
-            "ativo": "#00d700",
+            "ativo": "red",
             "ship": "",
             "conexoes": [
                 {
@@ -92752,7 +92752,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": -1
         },
         {
             "tipo": "sw",
@@ -92769,7 +92769,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 101
+            "tempo_resposta": 93
         },
         {
             "tipo": "sw",
@@ -92786,7 +92786,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": 62
         },
         {
             "tipo": "sw",
@@ -92820,7 +92820,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47
+            "tempo_resposta": 54
         },
         {
             "tipo": "sw",
@@ -92854,7 +92854,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47
+            "tempo_resposta": 62
         },
         {
             "tipo": "sw",
@@ -92888,7 +92888,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": 70
         },
         {
             "tipo": "sw",
@@ -92939,7 +92939,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47
+            "tempo_resposta": 46
         },
         {
             "tipo": "sw",
@@ -92973,7 +92973,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 62
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -93007,7 +93007,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 125
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -93024,7 +93024,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 109
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -93092,7 +93092,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47
+            "tempo_resposta": 46
         },
         {
             "tipo": "sw",
@@ -93109,7 +93109,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78
+            "tempo_resposta": 93
         },
         {
             "tipo": "sw",
@@ -93143,7 +93143,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85,
+            "tempo_resposta": 78,
             "valores": [
                 "2.00",
                 "37.6",
@@ -96775,7 +96775,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47
+            "tempo_resposta": 46
         },
         {
             "tipo": "sw",
@@ -96792,7 +96792,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47,
+            "tempo_resposta": 46,
             "valores": [
                 "1.00",
                 "37.7",
@@ -98180,7 +98180,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47,
+            "tempo_resposta": 46,
             "valores": [
                 "-",
                 "-",
@@ -98245,7 +98245,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 70
+            "tempo_resposta": 78
         },
         {
             "tipo": "sw",
@@ -98262,7 +98262,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 78,
+            "tempo_resposta": 93,
             "valores": [
                 "-",
                 "-",
@@ -98286,7 +98286,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93,
+            "tempo_resposta": 101,
             "valores": [
                 "8.00",
                 "41.5",
@@ -98347,7 +98347,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47,
+            "tempo_resposta": 62,
             "valores": [
                 "7.00",
                 "41.5",
@@ -98394,7 +98394,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93,
+            "tempo_resposta": 101,
             "valores": [
                 "8.00",
                 "40.9",
@@ -98441,7 +98441,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47,
+            "tempo_resposta": 54,
             "valores": [
                 "8.00",
                 "41.5",
@@ -98488,7 +98488,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85,
+            "tempo_resposta": 93,
             "valores": [
                 "8.00",
                 "45.7",
@@ -98535,7 +98535,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47,
+            "tempo_resposta": 62,
             "valores": [
                 "7.50",
                 "42.3",
@@ -98636,7 +98636,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 47,
+            "tempo_resposta": 62,
             "valores": [
                 "7.50",
                 "41.5",
@@ -98701,7 +98701,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 93,
+            "tempo_resposta": 101,
             "valores": [
                 "7.00",
                 "41.3",
@@ -98748,7 +98748,7 @@
                     "ip": ""
                 }
             ],
-            "tempo_resposta": 85
+            "tempo_resposta": 93
         },
         {
             "tipo": "sw",
@@ -98771,5 +98771,5 @@
     "pending_edits": [],
     "priority_ips": {},
     "trusted_hostnames": [],
-    "last_update": "2025-05-16T23:10:38.543624Z"
+    "last_update": "2025-05-16T23:13:33.890774Z"
 }
